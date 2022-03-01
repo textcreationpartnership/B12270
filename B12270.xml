@@ -1,0 +1,843 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods tribunall and mans tryal Represented in a sermon at Pauls-Crosse, vpon the fifth of September. 1630. By Isaac Craven, pastor of Felmersham in Bedfordshire.</title>
+            <author>Craven, Isaac, d. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12270</idno>
+            <idno type="STC">STC 6031</idno>
+            <idno type="STC">ESTC S109072</idno>
+            <idno type="EEBO-CITATION">99844722</idno>
+            <idno type="PROQUEST">99844722</idno>
+            <idno type="VID">177907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1269:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods tribunall and mans tryal Represented in a sermon at Pauls-Crosse, vpon the fifth of September. 1630. By Isaac Craven, pastor of Felmersham in Bedfordshire.</title>
+                  <author>Craven, Isaac, d. 1660.</author>
+               </titleStmt>
+               <extent>[4], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I[ohn] B[eale] for Iames Boler, dwelling at the signe of the Marigold in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1631.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On Romans II, 16.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177907:1" rendition="simple:additions"/>
+            <pb facs="tcp:177907:1"/>
+            <p>GODS TRIBVNALL <hi>AND</hi> MANS TRYAL<g ref="char:punc">▪</g> Repreſented in a Sermon at <hi>Pauls-</hi>Croſſe, vpon the fifth of <hi>Sep<g ref="char:EOLhyphen"/>tember.</hi> 1630.</p>
+            <p>By ISAAC CRAVEN, Paſtor of <hi>Felmerſham</hi> in <hi>Bedfordſhire.</hi>
+            </p>
+            <q>
+               <bibl>2 COR. 5. 11.</bibl>
+               <p>Knowing the terrour of the Lord, wee perſwade men.</p>
+            </q>
+            <q>
+               <bibl>AMBROS.</bibl>
+               <p>
+                  <hi>Nihil eſt quod magis proficiat ad vitam honestam, quam vt credamus cum iudicem futurum, quem &amp; occulta non fallunt, &amp; inde<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ra offendunt, &amp; honesta delectant.</hi>
+               </p>
+            </q>
+            <figure/>
+            <p>LONDON: Printed by <hi>I. B.</hi> for <hi>Iames Boler,</hi> dwelling at the ſigne of the <hi>Marigold</hi> in <hi>Pauls-</hi>Church<g ref="char:EOLhyphen"/>yard. 1631.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177907:2"/>
+            <pb facs="tcp:177907:2"/>
+            <head>
+               <hi>To the VVorſhipfull, his much honoured Friend, OLIVER BOTELER, Eſquire, all happineſſe in</hi> Ieſus Chriſt.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Subiect of this enſu<g ref="char:EOLhyphen"/>ing Diſcourſe, is for com<g ref="char:EOLhyphen"/>monneſſe and familiarity, like thunder; the oftner heard, the leſſe feared: did men but ſeriouſly recount how it will be the laſt try<g ref="char:EOLhyphen"/>all, and vpon it an euer<g ref="char:EOLhyphen"/>duringeſtate, either in hea<g ref="char:EOLhyphen"/>uen or hell, they would ra<g ref="char:EOLhyphen"/>ther deſire to be often remembred of what they muſt once be called vnto. Theſe Notions not long ſince deliuered to the eare, were neuer intended for the eye. Conſciouſ<g ref="char:EOLhyphen"/>neſſe of mine owne meaneneſſe, and withall the great diſ<g ref="char:EOLhyphen"/>parity twixt a liuely voice, and breathleſſe lines, haue eaſily diſſwaded me hitherto from appearing in Statio<g ref="char:EOLhyphen"/>nary view. If now too ſoone, I muſt borrow my Apo<g ref="char:EOLhyphen"/>logie
+<pb facs="tcp:177907:3"/> from your ſelfe; whoſe requeſt not onely commands, but paſſeth with me for an Approbation. Otherwiſe (as curioſity ouer-rules the caſe) it's neither nature, nor the God of nature that ſatisfieth all. This criticall Age of ours hath at once reuiued and verified <hi>Tertullians</hi> complaint; <hi>Niſi Deus homini placuerit, Deus non erit.</hi> The beſt is, as I cannot be confident of immunity from cenſure: ſo I am taught to neglect it. <hi>Gal.</hi> 1. 10. Should I ſeeke to pleaſe men, I were not the ſeruant of Chriſt. Such then as theſe reuiſed Papers are, I am bold to commend to the vſe of Gods Church, vnder the patro<g ref="char:EOLhyphen"/>nage and protection of your name. Reaſons hereto indu<g ref="char:EOLhyphen"/>cing, a ſtranger will not enquire after; and they that haue knowne my reference to ſuch a pious Pariſhioner, a reall fauourer and encourager of my Ministery, neede not. Only may they find that acceptance, which the Author before them, and in any proportion further you in the way to heauen<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue no more to deſire, but as Saint <hi>Paul</hi> for <hi>Oneſiphorus, The Lord grant vnto you, that you may finde mercy of the Lord in that day.</hi>
+            </p>
+            <closer>
+               <signed>Your Worſhips in all duty and ſeruice, <hi>I. CRAVEN.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:177907:3" rendition="simple:additions"/>
+            <head>GODS TRIBVNALL, <hi>AND</hi> MANS TRYALL.</head>
+            <epigraph>
+               <bibl>ROM. 2. 16.</bibl>
+               <q>In the day when God ſhall iudge the ſecrets of men, by Ieſus Chriſt, according to my Goſpell.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a dangerous erroni<g ref="char:EOLhyphen"/>ous conceit lodged within the hearts of graceleſſe men, that becauſe God is mercifull, <note n="a" place="margin">Eccleſ. 8. 11</note> he will neuer reuenge: as if in regard of his Mercy, it accorded not with his nature to be alſo Iuſt: The diſcouery of which errour, for preuenti<g ref="char:EOLhyphen"/>on of greater danger, is the the Apoſtles maine buſineſſe in the beginning of this Chapter.</p>
+            <p>Firſt for the Errour, God indeede is Mercifull, as ap<g ref="char:EOLhyphen"/>peares by his patience, forbearance and long ſuffering: but examine the cauſe; is it to make man ſecure in ſin? nothing leſſe: but to mollifie his obdurate heart, and to
+<pb n="2" facs="tcp:177907:4"/> worke a reformation within him, <hi>ver.</hi> 4. <hi>The goodneſſe of God leads thee to repentance.</hi>
+            </p>
+            <p>Secondly, for the danger, it hath a wofull expreſſion in <note place="margin">So 2 Pet. 3. 9.</note> the progreſſe of the Chapter; a heaping vp of wrath a<g ref="char:EOLhyphen"/>gainſt the day of wrath, and reuelation of the righteous iudgement of God, and ſuch a God as is no reſpecter of perſons, no partiall Iudge, but will render vnto euery man <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, according to his workes. So that hee who will therfore ſinne becauſe God is good, muſt look to be damned becauſe God is iuſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> Where haply it may be obiected, that the Apoſtle di<g ref="char:EOLhyphen"/>rects not his Epiſtle to the <hi>Hebrewes,</hi> the Circumciſion; he is taken vp now with the <hi>Romans,</hi> vncircumciſed <hi>Gentiles.</hi> Howeuer therefore the <hi>Iewes</hi> had a Law where<g ref="char:EOLhyphen"/>by to be iudged forſin, it were manifeſt iniuſtice for the <hi>Gentiles</hi> to be damned hauing none at all. And indeed it might ſeeme an vnauoidable ſequell, had the Heathen in all reſpects bin deſtitute of a Law to direct them. Iſay, it might ſeeme an vnequall courſe to adiudge them to damnation for the breach of that which they knew not. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> But contrarily ſo it fared, as they had the Law in Tables of ſtone, ſo theſe had no leſſe imprinted in their hearts; and as the Law of Scripture ſhall try the one, the Law of Nature ſhall iudge the other. Amongſt whom, the groſ<g ref="char:EOLhyphen"/>ſeſt Atheiſt, euen <hi>Dauids</hi> grandeſt foole, who hath ſaid <note place="margin">Pſal. 14. 1.</note> in his heart there is no God, hath a Conſcience to ſchoole him at one time or other, and to tell him that God will iudge him. And although for a while it be ſi<g ref="char:EOLhyphen"/>lenced and tamed with ſleepe in veſſels prepared to de<g ref="char:EOLhyphen"/>ſtruction, it ſhall at length awake and ariſe for a witneſſe againſt them. In the day when God ſhall iudge the ſe<g ref="char:EOLhyphen"/>crets of men by Chriſt Ieſus according to the Goſpell.</p>
+            <p>This being the reference and dependance of the words, they offer to our conſideration theſe ſeuerall poynts:</p>
+            <list>
+               <item>1. A time of Iudgement, <hi>[In the day]</hi> come when it will.</item>
+               <pb n="3" facs="tcp:177907:4"/>
+               <item> 2. Who ſhall iudge? <hi>[God.] Iudicabit Deus,</hi> God ſhall iudge.</item>
+               <item>3. Whom? <hi>[Men,]</hi> all men; no exception.</item>
+               <item>4. What? <hi>[Secrets.] Occulta hominum,</hi> the ſecrets of men.</item>
+               <item>5. By whom? <hi>[By Ieſus Chriſt;]</hi> He that was ſent to ſaue vs.</item>
+               <item>6. And laſtly, the warrant of Confirmation,</item>
+            </list>
+            <list>
+               <item>For nature the [Goſpell,]
+<list>
+                     <item>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</item>
+                     <item>according to my Goſpell.</item>
+                  </list>
+               </item>
+               <item>By diſpenſation <hi>Pauls,</hi>
+               </item>
+            </list>
+            <p>Thus within a little compaſſe we haue a Day for ap<g ref="char:EOLhyphen"/>pearance, a God to iudge, Men to be queſtioned, Secrets to be diſcloſed, Chriſt Ieſus in Commiſſion, and the Goſpell for our aſſurance. <hi>In the day when God ſhall iudge, &amp;c.</hi> Of all theſe in the order as I haue ranked them: and firſt of the time, <hi>In die.</hi>
+            </p>
+            <p>It is the witty curioſity of one that affected it, that <note place="margin">Gorran.</note> the time of Iudgement hath in Scripture foure appella<g ref="char:EOLhyphen"/>tions:</p>
+            <p n="1">1. It is called the <hi>Day,</hi> for manifeſtation of ſecrets.</p>
+            <p n="2">2. The <hi>Night,</hi> for ſuddenneſſe of euent.</p>
+            <p n="3">3. The <hi>Euen,</hi> for the ending of time.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> Laſtly, the <hi>Morning,</hi> for the beginning of eternity. But to Comment vpon the time ſo, would be loſſe of time to vs. It is beſt, by Day, to vnderſtand the time in general, and to build vpon it no more then it beares: that <hi>there ſhall be a day of iudgement.</hi> A truth of infallible cer<g ref="char:EOLhyphen"/>ainty, becauſe a day of the Lords ſetting: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Act.</hi> 17. <hi>God hath appointed it:</hi> and as <hi>Hezekiah</hi> ſaid to <hi>Iſaiah, Good</hi> 
+               <note place="margin">Warranted by Scripture.</note> 
+               <hi>is the word of the Lord</hi> 
+               <note n="a" place="margin">Iſa. 39. 8.</note>. A truth likewiſe for reuelation, of great antiquity, and in order to the fountaine, from all eternity. Saint <hi>Iude</hi> deriues it from <hi>Enoch,</hi> the ſeuenth from <hi>Adam,</hi> in his 14. and 15. <hi>verſes; Behold, the Lord commeth to execute iudgement vpon all:</hi> and the laſt Apo<g ref="char:EOLhyphen"/>ſtle agreeth with the firſt Prophet; for, <hi>behold, hee com<g ref="char:EOLhyphen"/>meth with clouds, and euery eye ſhall ſee him</hi> 
+               <note n="b" place="margin">Apoc. 1. 7.</note>. See him? yea, that bleſſed Fauorite had an exact viſion, <hi>Apoc.</hi> 20. he ſaw
+<pb n="4" facs="tcp:177907:5"/> the Throne, and the Iudge, and his awfull Maieſty; hee ſaw the dead, and the bookes, the perſons and the cau<g ref="char:EOLhyphen"/>ſes, the iudgements and the proceedings, in diſcuſſing, in diſcouering, in condemning: a complete Aſſiſe,</p>
+            <p>No day like to this day, no iudgement to this iudgement. Other are lightſome dayes, this of dark<g ref="char:EOLhyphen"/>neſſe and gloomineſſe; the greater lights ſhall be dark<g ref="char:EOLhyphen"/>ned, the leſſer fall from heauen <note n="c" place="margin">Mat. 24. 29.</note>. Other are familiar dayes, this of terrour and amazement; the trumpet of God ſhall blow <note n="d" place="margin">1 Theſ. 4. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note>, and the powers of the heauens ſhall be ſhaken <note n="c" place="margin">Luk. 21. 26.</note>. Other come when they are looked for, this is a ſudden day; <hi>Sicut fur in nocte</hi> 
+               <note n="f" place="margin">1 Theſ. 5. 2.</note>, as a theefe in the night. Other are preuenting dayes, this is the laſt day; <hi>Hori<g ref="char:EOLhyphen"/>zon temporis &amp; aeternitatis</hi> 
+               <note n="g" place="margin">Corn. a Lap.</note>; for the Angell hath ſworne it, Time ſhallbee no more <note n="h" place="margin">Apoc. 10. 6.</note>. In a word, Other are our dayes, this is the Lords day; they of his Patience, this of his Vengeance; they of his Mercy, this of his Iuſtice and Iudgement. For the Lord hath appointed a day wherein he will iudge the world in righteouſneſſe <note n="i" place="margin">Act. 17. 31.</note>.</p>
+            <p>Not a Iudgement of Legall direction, as the Statutes and Teſtimonies of Morality; nor of fatherly Correcti<g ref="char:EOLhyphen"/>on to preuent Condemnation with the world <note n="k" place="margin">1 Cor. 11. 32</note>, nor of temporary infliction, ſuch as now this diſperſing conta<g ref="char:EOLhyphen"/>gion; nor of ordinary adminiſtration, whereby God ſtandeth in Councels: but a generall Conuention for tryall in the higheſt Conſiſtory, an vniuerſall inquiſiti<g ref="char:EOLhyphen"/>on, a finall Iudgement, diſcharging the righteous, diſ<g ref="char:EOLhyphen"/>carding the vngodly, as the day for particulars ſhall diſ<g ref="char:EOLhyphen"/>couer what we cannot.</p>
+            <p>So certaine, that euen Humane Reaſon enlightened with holy Scripture, conceiues, concludes no leſſe: for <note place="margin">Seconded by Reaſon, and</note> looke but vpon the face of this preſent world, and who ſeeth not the ſtrange inequality of humane diſpenſati<g ref="char:EOLhyphen"/>ons? Piety is moleſted, iniquity ſpared, ambition exal<g ref="char:EOLhyphen"/>ted, humility ſcorned; which occaſioned that of the Poet, <hi>Ludit in humanis diuina potentia rebus;</hi> as if earths miſeries were for nothing but heauens May-games. But
+<pb n="5" facs="tcp:177907:5"/> hath God forgotten the cauſe of his Choſen? Will his Iuſtice neuer be knowne in Iudgement? Out of all que<g ref="char:EOLhyphen"/>ſtion, <hi>Pſal.</hi> 58. Verily there is a reward for the righ<g ref="char:EOLhyphen"/>teous: doubtleſſe there is a God that iudgeth the earth. And if here he conceale his glory, there muſt needs be a time for Manifeſtation; if here he conniue for argument of his patience, yet no time paſt for euidence of his Iu<g ref="char:EOLhyphen"/>ſtice. He hath appointed a day for men and for Angels to behold and admire his righteous Iudgements.</p>
+            <p>But take a neerer courſe, and aske thine owne Conſci<g ref="char:EOLhyphen"/>ence; <note place="margin">Conſcience.</note> that will tell thee as much: It is that which af<g ref="char:EOLhyphen"/>frighteth or cheareth, accuſeth or cleareth <note n="a" place="margin">Rom. 2. 15.</note>, commen<g ref="char:EOLhyphen"/>deth or condemneth, ſits in Commiſſion, and calls thee to often reckoning. Well, if Conſcience doe this now, 'tis but as <hi>Tertullian</hi> anciently ſtiled it, <hi>Praeiudicium extremi Iudicij,</hi> a fore-runner of the laſt Iudgement. If men haue their peculiar Courts of Conſcience here <note n="b" place="margin">1 Ioh. 3. 20.</note>, let none make queſtion of Gods Tribunall hereafter, but accord with Scripture, and Reaſon, and Conſcience, that there ſhall be a day of Iudgement.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Yea, but <hi>Quando haec? When ſhall theſe things be?</hi> for that was the Apoſtles <hi>quaere, Mat.</hi> 24. A demand that cannot be ſatisfied at once, for preciſe definition not at all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The anſwer it admits, I comprize in three Conclu<g ref="char:EOLhyphen"/>ſions: </p>
+            <p n="1">1. In generall, it ſhall be in the end of dayes, the ex<g ref="char:EOLhyphen"/>piration of yeares, the worlds diſſolution, the Common Reſurrection. It is appointed vnto men once to dye, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but after this the iudgement, <hi>Heb.</hi> 9. 27.</p>
+            <p n="2">2. In more particular, it ſhall be when the ſignes are accompliſht, the Goſpell of the kingdome reſounding to a reformation, Antichriſt reuealed and diſ-throned, the faith eclipſed, manners depraued, tribulations multi<g ref="char:EOLhyphen"/>plyed, terrors diſperſed, the <hi>Iewes,</hi> in ſome meaſure, re<g ref="char:EOLhyphen"/>called; then <hi>Leuate capita veſtra; lift, vp your heads, for your redemption draweth nigh</hi> 
+               <note n="a" place="margin">Luk. 21. 28.</note>.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:177907:6"/> 3. But indiuidually to aſſigne it, ſurpaſſeth the ſubli<g ref="char:EOLhyphen"/>meſt knowledge of men and of Angels. The Diſciples (we muſt thinke) had learn'd it, if any in the world, for <hi>Vobis datum est, Mat.</hi> 13. <hi>Vnto you it is giuen to know the myſteries of the Kingdome of heauen.</hi> But what if all my<g ref="char:EOLhyphen"/>ſteries be not alike? There are <hi>Myſteria Regis,</hi> and there are <hi>Myſteria Regni:</hi> Myſteries of Religion, and they might, nay, they muſt be knowne: Myſteries of mens hearts, and them none knowes, ſaue he that formed the heart <hi rend="sup">b</hi>. Myſteries of future Euents, and ſuch the time <note place="margin">Ier. 17. 9, 10</note> muſt manifeſt, as <hi>vltra Sphaeram,</hi> remoued from our reach. <hi>Secret things belong to the Lord, Deut.</hi> 29. <hi>The Fa<g ref="char:EOLhyphen"/>ther hath put them in his owne power, Acts</hi> 1. It was not for the Apoſtles then, it is not for vs to know them now.</p>
+            <p>Such a reſerued Myſtery, ſuch an indeterminable ſea<g ref="char:EOLhyphen"/>ſon, is the time of the laſt Iudgement; vnknowne to vs, to the Angels of God, to Chriſt himſelfe as concerning his Manhood <note n="c" place="margin">Cyril.</note>, at leaſt for the dayes of his fleſh <note n="d" place="margin">Orig.</note>. O<g ref="char:EOLhyphen"/>therwiſe, impoſſible for the euerlaſting Father to be ig<g ref="char:EOLhyphen"/>norant of the laſt day. But he knew it not neceſſary for vs to know: it was better concealed; and that</p>
+            <p n="1">1. For the exerciſe of our faith, the tryall of our pati<g ref="char:EOLhyphen"/>ence, the perfection of our hope; faith to beleeue it, patience to attend it, hope to relye vpon it, reſoluing in all our troubles, that ſooner or later, a day of releaſe will come.</p>
+            <p n="2">2. For reſtraint of Curioſity, that would bee prying into veiled ſecrets, to keepe vs within our Compaſſe from fingring the forbidden fruit, to ſeaſon vs with ſo<g ref="char:EOLhyphen"/>briety, and to teach vs in ſuch a ſubiect <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not to be wiſe aboue that which is meet.</p>
+            <p n="3">3. To containe vs in awfulneſſe, and make vs watch<g ref="char:EOLhyphen"/>full in our callings <note n="e" place="margin">Mat. 14. 42. 1 Theſ. 5. 6.</note>, prouident out of ignorance, and cir<g ref="char:EOLhyphen"/>cumſpect in vncertainty. <hi>Latet vltimus dies</hi> (ſaith <hi>Aug.) vt obſeruenter omnes.</hi> Wee are kept from the knowledge of the laſt day, to haue in ſuſpition euery day.</p>
+            <p n="4">
+               <pb n="7" facs="tcp:177907:6"/> 4. And laſtly, concealed, that the Non-conuerted may be drawne to a ſpeedy repentance, leſt the day ſur<g ref="char:EOLhyphen"/>prize them when lamentation will bee too late, and that regardleſſe ſinners may be taken without excuſe for not conſidering the time of their viſitation.</p>
+            <p>Such then is the nature of the day of Iudgement, Cer<g ref="char:EOLhyphen"/>taine for the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>it ſhall come,</hi> vncertaine for the <hi>quando,</hi> we know not when: Nothing more ſure, nothing more ſudden; yet this I may boldly auerre, it cannot be farre from vs: it was at hand in the Apoſtles times <note n="a" place="margin">1 Pet. 4. 7.</note>, therfore neerer now; <hi>hora nouiſſima,</hi> the laſt houre in Saint <hi>Iohns</hi> time <note n="b" place="margin">1 Ioh. 2. 18.</note>, wherefore rather now: if the ends of the world were come vpon them <note n="c" place="margin">1 Cor. 10. 11</note>, they are cloſe vpon vs. I dare not goe along with our aduenturous Calculators to the determination of the yeere (God keepe vs from that height of audaciouſneſſe.) Onely if wickedneſſe know not how to be more wicked, nor vanity how to be more vaine <note n="d" place="margin">Theſe are ſuch perilous times as Saint <hi>Paul</hi> foretel<g ref="char:EOLhyphen"/>leth. 2 Tim. 3. 1, 2, 3, 4, 5.</note>, if pampering Epicuriſme, tranſcendent pride, couert Atheiſme, open prophaneneſſe, vnmercifull op<g ref="char:EOLhyphen"/>preſſion, ouer-mercifull conniuence to ſinne, if waſtefull prodigality, inſatiable auarice, Simoniacall Sacrilege, vnbrideled luxury, if beaſtly drunkenneſſe, bloody treachery, ſlanderous detraction, cunning fraud, if en<g ref="char:EOLhyphen"/>uious vnderminings, ambitious temporizings bee the ripenings of the world to Iudgement, I ſay it againe, it cannot be farre from vs. When we ſee in an old man the ſignes of age, as a doting braine, a languiſhing ſtomack, a cold body, a wayward minde, wee gather his time is not long, though the article of his diſſolution we know not. Beloued, long hath the world doted with hereſie, languiſhed in the faith, beene cold in charity, and way<g ref="char:EOLhyphen"/>ward in vanity, all ſignes of an approaching diſſolution, and tell vs like ſo many <hi>Baptiſts, appropinquauit regnum; The kingdome of heauen is at hana.</hi>
+            </p>
+            <p>And therefore the iſſue is this, ſeeing moſt of the ſignes are already accompliſht, ſeeing the world is a<g ref="char:EOLhyphen"/>ged and betrayes no leſſe, and that the generall Iudge<g ref="char:EOLhyphen"/>ment
+<pb n="8" facs="tcp:177907:7"/> is euen at the doore <note n="(e)" place="margin">Ier 5. 9.</note>; the point is cleare (bee the moment neuer ſo vncertaine) that there ſhall be a day of Iudgement.</p>
+            <p>
+               <hi>I cannot diſmiſſe it ſo.</hi> For</p>
+            <p>Firſt, (me thinkes) the certainety of the day ſhould <note place="margin">Applic.</note> be to the ſonnes of <hi>Belial,</hi> as that fatall hand to carouſing <hi>Belſhazzar</hi> 
+               <note n="a" place="margin">Dan. 5.</note>, which wrote his doome vpon the wall: and ſecondly, to euery regenerate ſoule, as that little Cloud to <hi>Elijahs</hi> ſeruant, which aroſe out of the ſea, like a mans hand <note n="b" place="margin">1 Reg. 18.</note>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> The former hand writes matter of terrour to the dam<g ref="char:EOLhyphen"/>ned crue of vnbeleeuers; dreadfull ſights of hidious <note place="margin">For the wic<g ref="char:EOLhyphen"/>ked. 1. Matter of terrour.</note> ſignes; the Trumpet ſounding, the graues opening, the earth quaking, the ſtarres falling, the Iudge preparing in ſeuereſt manner to take their laſt accounts. Accounts for themſelues, how they haue liued; accounts for their brethren, how they haue loued; accounts for their bo<g ref="char:EOLhyphen"/>dies formerly abuſed, accounts for their ſoules before neglected, for their inmoſt thoughts, for their idle words, their omiſſions of good, commiſſions of euill, all in ſuch rigorous manner, that neither honour, nor riches, nor fauour, nor friendſhip ſhall aduantage, ex<g ref="char:EOLhyphen"/>empt or excuſe them. <hi>Latere erit impoſſibile, apparere intolerabile</hi> 
+               <note n="c" place="margin">Anſelm.</note>. O fearefull caſe of miſcreant forſaken wights! whither ſhould they looke? which way ſhould they turne? Looke to the Clouds, and the Sonne of man ready to damne them; downe to the ground, and Hell mouth ready to deuoure them; looke before, and the in<g ref="char:EOLhyphen"/>fernall fiends ready to hale them; behinde, the glorious Saints, and ſome their deareſt friends, to caſhiere, to forſake them; turne to the left hand, their ſinnes accuſe them; to the right, Gods Iuſtice threatens them; whi<g ref="char:EOLhyphen"/>therſoeuer they looke, whitherſoeuer they turne, their loſſe is heauen, death is their doome, and Hell their portion for euer.</p>
+            <p>O conſider this all ye that forget God, (for 'tis need<g ref="char:EOLhyphen"/>leſſe in a ſubiect of ſuch infallibility to deale againſt anci<g ref="char:EOLhyphen"/>ent
+<pb n="9" facs="tcp:177907:7"/> Heretikes; and I hope, they are vnborne amongſt vs, that Atheiſtically ſcoffe and deride it,) but you that with carnall Goſpellers contradict it by ſcandalous li<g ref="char:EOLhyphen"/>uing; that crowne your heads with Roſe-buddes, and make a Couenant with hell, and with death, and with iudgement; that with the old <hi>Italians</hi> ring your Bels to auoyd the noyſe of Thunder, and expell the remem<g ref="char:EOLhyphen"/>brance of the laſt with the vanities of your owne day; you, I ſay, ſhould conſider (had you loue to your owne ſoules) how the day is approaching, when accounts muſt be giuen for all. Peraduenture it comes before your deceaſe; or haply Mortality firſt arreſts you, all will be one; no auoydance by death; <hi>Quia, qualis hinc quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> e<g ref="char:EOLhyphen"/>greditur, talis in iudicio praeſentatur</hi> 
+               <note n="a" place="margin">
+                  <hi>Greg. Dial. lib.</hi> 4. <hi>cap.</hi> 39.</note>; Such a departure hence, ſuch an appearance at laſt: ſuch a diſſolution, ſuch a Reſurrection. Wherefore thinke not to preſume with the vngracious ſeruant <note n="b" place="margin">Mat. 24. 48.</note>, <hi>Tardat Dominus;</hi> the Maſter i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſlacke in comming; thinke not that God will ſlight it, becauſe he deferres the time. The old world had a long warning, yet drownd at length; <hi>Sodom</hi> was long ſpa<g ref="char:EOLhyphen"/>red, yet burnt at length; <hi>Ieruſalem</hi> long entreated, yet ſpoyled at length; and the generall Iudgement, though long delayed, yet at length it comes. The Rainebow, (ſaith one <note n="c" place="margin">
+                  <hi>Diſce mori. pag.</hi> 408.</note>) as it hath a watry colour to ſhew vs what hath beene paſt, ſo alſo a fiery to ſignifie what is to come. And then <hi>Vaeridentibus; Woe be them that laugh, for they ſhall mourne</hi> 
+               <note n="d" place="margin">Luk. 6. 25.</note>. Woe bee to them that now pre<g ref="char:EOLhyphen"/>ſume, they ſhall then be quelled. For to men of any ſen<g ref="char:EOLhyphen"/>ſible conſcience, the very name of Iudgement is by na<g ref="char:EOLhyphen"/>ture dreadfull; and if there be terror in the name, needs muſt the day be exceeding terrible; if the <hi>Iſraelites</hi> fea<g ref="char:EOLhyphen"/>red when the Law was deliuered <note n="e" place="margin">Exod. 20.</note>, what ſhall the vn<g ref="char:EOLhyphen"/>godly when the breach ſhall be doomed? If <hi>Felix</hi> trem<g ref="char:EOLhyphen"/>bled when <hi>Paul</hi> foretold it <note n="f" place="margin">Act. 24. 25.</note>, what ſhall a world of ſin<g ref="char:EOLhyphen"/>ners, when God reueales it?</p>
+            <p>O then that a word of Exhortation might preuaile a<g ref="char:EOLhyphen"/>mongſt <note place="margin">2. <hi>Exhort.</hi>
+               </note> you! that you would make aduantage of this
+<pb n="10" facs="tcp:177907:8"/> blacke affrighting meditation, and now in the dayes of patience bethinke your ſelues againſt the day of venge<g ref="char:EOLhyphen"/>ance: for yet the weather is faire and ſeaſonable, ye may frame an Arke to ſaue you from the future deluge; yet are the Angels at the gates of <hi>Sodom;</hi> your ſoules may be a prey to your ſelues by eſcaping thence; yet <hi>Ionas</hi> pro<g ref="char:EOLhyphen"/>phecies in the Streets of <hi>Niniuie;</hi> there's hope of mercy if you turne from your euill wayes: yet wiſedome calls vnto wandring paſſengers, <hi>Vſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quo? Prou.</hi> 1. How long (ye ſimple ones) will ye loue ſimplicity? What ſhould I ſay more? yet the Bridegroome tarries and ſtayes the Virgins leiſure; the Prophet wooes you <note n="a" place="margin">Ezech. 18.</note> with <hi>Iſrael</hi> to repent and liue; the Apoſtle beſeecheth you in the name of Chriſt, that ye would be reconciled vnto God <note n="b" place="margin">2 Cor. 5. 20.</note>; and laſtly, for enforcement of all, your owne Conſcien<g ref="char:EOLhyphen"/>ces, as ſo many <hi>Caſſandra's</hi> preſage within your breaſts a manifeſtation of ſinne and iuſtice. O neglect not the oportunities and meanes of grace, ſuppreſſe not the liber<g ref="char:EOLhyphen"/>ty of that priuate remembrancer, but in time conſider the things that belong to your peace, and worke out your owne ſaluation with feare and trembling; recoun<g ref="char:EOLhyphen"/>ting with a bleſſed Father, how, <hi>Maxima eſt poena pecca<g ref="char:EOLhyphen"/>ti, metum &amp; memoriam amiſiſſe extremi iudicij;</hi> It is the ſo<g ref="char:EOLhyphen"/>reſt puniſhment of ſinne in this life, to haue loſt the re<g ref="char:EOLhyphen"/>membrance and feare of the laſt Iudgement. Many vials of Gods wrath were powred vpon <hi>Ieruſalem;</hi> and of ma<g ref="char:EOLhyphen"/>ny prouocations this was the maine, <hi>Non eſt recordata fi<g ref="char:EOLhyphen"/>nis;</hi> Shee remembred not her end <note n="c" place="margin">Lam. 1. 9.</note>. Loſſe of children, and mournefull widdow-hood were threatned to bee brought vpon <hi>Babylon;</hi> all for this, <hi>Ero in Saeculum Do<g ref="char:EOLhyphen"/>mina; I ſhall be a Lady for euer</hi> 
+               <note n="d" place="margin">Iſa. 47. 7.</note>. And euen ſo at the re<g ref="char:EOLhyphen"/>uelation of Iudgement, ſhall thouſand thouſands be pla<g ref="char:EOLhyphen"/>gued for this, that the thoughts of their laſt end were the laſt end of their thoughts. Wherefore, knowing the terror of the Lord, we dare not affect you <hi>quaſi Carmen muſicum,</hi> as a louely ſong of one that hath a pleaſant voyce; but muſt cry full loud to awaken your drouſie
+<pb n="11" facs="tcp:177907:8"/> ſoules; and by thoſe ſhaking Powers, falling Starres, darkened Lights, conſuming Flames, and thoſe old things that then ſhall paſſe away, beſeech and exhort you to become new creatures in all holy conuerſation and godlineſſe. Whereas, if you bee ſo ingratefull as to re<g ref="char:EOLhyphen"/>compence our paines with neglect, if you make our Go<g ref="char:EOLhyphen"/>ſpell a reproach vnto vs, if nothing will pleaſe you but peace, peace, alas! we can but propheſie, and importune you to embrace the ſeaſon; nay, cannot but prophecie, and proclaime the deſolations and terrors which accom<g ref="char:EOLhyphen"/>pany the diſmall day, <hi>When the Lord ſhall iudge.</hi>
+            </p>
+            <p>And this is the hand vpon the Wall.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> The other, as it prognoſticates ſhowres of happineſſe to releeue the wearied ſoule, and may exceedingly ſolace <note place="margin">For the godly.</note> the hearts of true beleeuers, (for what patience ſhould it worke in vs? what Heroicall couragiouſneſſe? what contempt of the vanities and miſeries of this world? whole Clouds to that purpoſe will deliuer themſelues a<g ref="char:EOLhyphen"/>non.) So in the</p>
+            <p n="1">1. Place, ſeeing the Lord hath prepared ſuch a day <note place="margin">1 To prepare themſelues; by attending</note> for vs, it cals for our Wiſdome to prepare our ſelues for it; and that he grants vs a day of ſuch a generall hearing, to prouide in the interim that our cauſe be good. <hi>Ante languorem adhibe medicinam; ante iudicium interroga teip<g ref="char:EOLhyphen"/>ſum</hi> 
+               <note n="a" place="margin">Eccluſ. 18. v. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 20.</note>. Looke how for preuention of ſickeneſſe thou wouldeſt purge thy body; ſo, to eſcape the rigour of Iudgement, examine thine owne ſoule. What ſincerity of profeſſion? What integrity of conuerſation? What purity of Conſcience? all muſt be look'd vnto, would we plot to haue all well.</p>
+            <p n="1">1. Our profeſſion in well beleeuing, conſidering that <note place="margin">1. To their faith.</note> of our Sauiour, <note n="b" place="margin">Ioh. 5. 24. 2. To their liues.</note> 
+               <hi>He that heareth my Word, and beleeueth in him that ſent me, ſhall not come into condemnation.</hi>
+            </p>
+            <p n="2">2. Our conuerſation in well-doing, according to that of the Pſalmiſt, <note n="c" place="margin">Pſal. 37. 38.</note> 
+               <hi>Keepe innocency, and take heed vnto the thing that is right, for that ſhall bring a man peace at the last,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (by the Teſtimony of the Iudge)
+<pb n="12" facs="tcp:177907:9"/> 
+               <hi>Bleſſed is that ſeruant, whom his Lord, when he commeth, ſhall finde ſo doing</hi> 
+               <note n="a" place="margin">Mat. 24. 46. 3. To their Conſciences.</note>.</p>
+            <p n="3">3. Our Conſcience in well-aſſuring, appoſing it with <hi>Iorams</hi> queſtion, Is it peace, <hi>Iehu?</hi> 
+               <note n="b" place="margin">2 Kings 9. 22</note> Peace, O my ſoule? and peace that embraceth righteouſneſſe? Angels of the Churches, are you conſcious of fidelity in mannaging the Miniſtery of reconciliation? Magiſtrates, haue you la<g ref="char:EOLhyphen"/>boured to ſnape the growth of ſinne? Officers<g ref="char:punc">▪</g> are you cleare from the piercing clamour of corruption? Law<g ref="char:EOLhyphen"/>yers, haue you applyed your ſelues to the thing that is lawfull and right? Trades-men, haue your minds beene ſet vpon righteouſneſſe, to the approuing of your wayes to God? Men and brethren of all degrees, there's a time approaching, when all the world for a good conſcience: that if our hearts in the meane can acquit vs, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (with the Apoſtle) we haue confidence towards God <note n="c" place="margin">1 Ioh. 3.</note>, and may aſſure our hearts before him. But</p>
+            <p n="2">2. Since the day is indefinite, and comes we know not when, <hi>Incertum tempus ſemper paratum vult animum.</hi> An <note place="margin">2 To watch and pray continu<g ref="char:EOLhyphen"/>ally.</note> vncertaine time requires a minde prepared at all times. Wherfore as a godly Father in whateuer he did, thought he heard the ſound of the laſt Trumpet <note n="d" place="margin">Ierome.</note>: So to vrge his carefulneſſe in the counſell of another, <hi>Nobis certam ſolli<g ref="char:EOLhyphen"/>citudinem imponat incerta Conditio</hi> 
+               <note n="e" place="margin">Euſ. Emiſſ.</note>. Becauſe wee are vn<g ref="char:EOLhyphen"/>certaine of the laſt day, let it make vs watchfull euery day. Firſt, in religious meditation, that it come not vn<g ref="char:EOLhyphen"/>looked for; and then in feruent prayer, that it come not vnwelcome. Neuer would our liues be ſo culpable of Iudgement, were our thoughts but inured to remember it; and neuer would the time be ſo dreadfull to remem<g ref="char:EOLhyphen"/>ber, could we pray with beleeuing hearts, <hi>In the houre of death, and in the day of Iudgement, Good Lord deli<g ref="char:EOLhyphen"/>uer vs.</hi>
+            </p>
+            <p>Once then to conclude this poynt; As we heartily ten<g ref="char:EOLhyphen"/>der the gayning of this great day, looke into our Faith, that we be found in the Lord Ieſus; looke into our liues, that we walke as becommeth Chriſtians; looke into our
+<pb n="13" facs="tcp:177907:9"/> Conſciences, that wee make them our friends before<g ref="char:EOLhyphen"/>hand: Watch and pray continually, that we may be a<g ref="char:EOLhyphen"/>ble to ſtand in the day of triall. O remember how wee liue in the laſt and worſt times, and know not how neare we draw to the laſt and ſtricteſt Iudgement; and though God ſhould procraſtinate and ſlacken his laſt comming, yet <hi>Tibi propè eſt vt eas hinc:</hi> The Decree is irreuerſible, that ſooner or later we muſt all away to our long home. Take heed therefore, leſt at any time our hearts bee op<g ref="char:EOLhyphen"/>preſſed with ſurfetting and drunkenneſſe, and cares of this life <note n="a" place="margin">Luk. 21. 34.</note>. Let vs walke honeſtly as in the open day, with circumſpection as in the laſt age: and herein let vs ex<g ref="char:EOLhyphen"/>erciſe our ſelues to haue alwayes a cleare conſcience to<g ref="char:EOLhyphen"/>wards God, and towards men <note n="b" place="margin">Act. 24. 16.</note>. That ſo when the Trumpe ſhall awaken vs with a Summons to the laſt Aſſiſes, we may appeare with boldneſſe for our plenary Iuſtification, <hi>In die cùm iudicabit Deus. In the day when God ſhall iudge.</hi>
+            </p>
+            <p>And let this ſuffice to haue beene ſpoken of the firſt point, to wit, <hi>The day of the laſt iudgement.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> The certainty thus concluded, it will bee eaſie to de<g ref="char:EOLhyphen"/>termine <hi>Who ſhall iudge,</hi> For to whom can the Iudgement eſſentially appertain, ſaue to him who alone is eſſentially iuſt? To whom can it belong to iudge the world, ſaue to him who in the beginning made the world? And that can be none but God (you will ſay) which muſt draw vs along to reſolue with the Text; <hi>Iudicabit Deus, God ſhall iudge.</hi>
+            </p>
+            <p>Where it matters not whether we vnderſtand the Fa<g ref="char:EOLhyphen"/>ther, or indifferently aſſigne it to the whole Trinity; ſee<g ref="char:EOLhyphen"/>ing <hi>Opera Trinitatis ad extra;</hi> Such workes as pitch vp<g ref="char:EOLhyphen"/>on the creature, admit not of diuiſion in the perſons of the Deity. Their acts are the ſame for matter of ſub<g ref="char:EOLhyphen"/>ſtance <note n="c" place="margin">Ioh. 5. 19.</note>, though different in manner of adminiſtration; another way, but the ſame worke. So Creation at firſt, and Iudgement at laſt, are ioyntly aſcribed to the ſacred three in one, and to God in all.</p>
+            <pb n="14" facs="tcp:177907:10"/>
+            <p> Indeed we haue it not in termes irreſpectiue, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>[God]</hi> without further addition, but <hi>God ſhall iudge by Ie<g ref="char:EOLhyphen"/>ſus Chriſt;</hi> and therefore vpon a ſecond examine it may ſeeme to be perſonall rather than eſſentiall: The Father by his Sonne, not the whole Trinity. Well, but if the iudgement belongs to them, we cannot exclude the per<g ref="char:EOLhyphen"/>ſon proceeding from both; there's an <hi>Ordine quiſque ſuo,</hi> euery one in his owne order. No diſſolution of conſent, for by vnity of eſſence the three are one <note n="a" place="margin">1 Ioh. 5. 7.</note>: no inequality of degrees, for in dignity of perſons the ſame are equal <note n="b" place="margin">Symb Ath.</note>. This is enough; the Father iudgeth by the Sonne in the vertue and power of the holy Ghoſt.</p>
+            <p>Thus then God ſhall iudge; and hee that ſhall doe it at laſt, ſits not in the meane time as an idle Spectator. He iudgeth now in particular cauſes, then vniuerſally all in all. Now ſucceſſiuely, one by one, then conioynedly all together: now remiſſely with a temper of mercy, then ſeuerely in the rigor of iuſtice: now he begins it in ſepa<g ref="char:EOLhyphen"/>rated ſoules, to accompliſh it then in reunited bodies. In a word, now he deales amongſt vs (as we make vp a po<g ref="char:EOLhyphen"/>litike body) by Kings, and Potentates, and inferiour Ma<g ref="char:EOLhyphen"/>giſtrates, and yet onely in palpable conuictions, cheifly in the caſe of notorious crimes, and at ſharpeſt by infliction of temporary puniſhments: But alas! theſe authorized Iudges, theſe gods that muſt thus dye like men <note n="c" place="margin">Pſal. 82. 6, 7.</note>, as the beſt may be deceiued through humane frail<g ref="char:EOLhyphen"/>ty, ſo the moſt may be peruerted by priuate ends; and of men in ſubordinate places, ſome may bee ſeduced with bribery, others tranſported with partiality: few ſeene to be zealous in the Lords cauſe; to regard the ſupplica<g ref="char:EOLhyphen"/>tions of the poore, the cries of the fatherleſſe and wid<g ref="char:EOLhyphen"/>dow, the grieuances and plaints of the Leuite; laudable enactions: but the miſery is, <hi>Athenienſes ſciunt quae recta ſunt, ſed facere nolunt<g ref="char:punc">▪</g>
+               </hi> lamentable executions; Idolatry, Blaſphemy, Profanation, Oppreſſion, Whoring, Swea<g ref="char:EOLhyphen"/>ring, Drinking, Reuelling: Small reformation; nothing abated.</p>
+            <pb n="15" facs="tcp:177907:10"/>
+            <p> But Lord! Are not thine eyes vpon the truth? <note n="d" place="margin">Ier. 5. 3.</note> and ſhal not the Supreme diſpoſer of all things viſit for theſe? Queſtionleſſe, for in the words of the Poet, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; yea, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The righteous God hath an aueng<g ref="char:EOLhyphen"/>ing eye, though he hold his hands for a ſeaſon. <hi>Noui ope<g ref="char:EOLhyphen"/>ra tua,</hi> I know thy workes, <hi>Reuel.</hi> 3. 1. and he knowes his time too (would we leaue it to his wiſedome) for a finall aboliſhment of theſe ſinfull deeds and dayes of ſin together, when as one impatient of any longer delay, he will come downe himſelfe to vndertake and auenge his quarrell, to confound the iuſtifying <note n="a" place="margin">Ezec. 16. 52</note> ſiſters of <hi>So<g ref="char:EOLhyphen"/>dome</hi> and <hi>Gomorrah,</hi> to purge this <hi>Augaeum ſtaebulum,</hi> this receptacle of noyſome ſinnes, and to make vp the meaſure of his iuſtice begun, by taking the matter into his owne hands. And then come neere ye Nations, and aſſemble all ye people, keepe ſilence ye Inhabitants and Tribes of the earth; for the Ancient of dayes hath re<g ref="char:EOLhyphen"/>membred at length to decide the old controuerſie: his ſpirit is weary of any further ſtriuing <note n="b" place="margin">Gem 6. 3.</note>, and contending by ſubordinate powers: he will no longer deferre it in expectation of amendment, or leaue it to the heads of the people, but will end it in a moment, with his owne immediate ſentence, <hi>Iudicabit Deus,</hi> God ſhall judge.</p>
+            <p>And therefore for a</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> 1. <hi>Vſe.</hi> O heare it, and feare it, ye that walke ſo vn<g ref="char:EOLhyphen"/>worthy of God, that wil not apprehend him as a iuſt re<g ref="char:EOLhyphen"/>warder of ſinners, but remain inſenſible either of ſin com<g ref="char:EOLhyphen"/>mitted, <note place="margin">For terrour to the wicked.</note> or grace conte<g ref="char:cmbAbbrStroke">̄</g>ned, or iudgeme<g ref="char:cmbAbbrStroke">̄</g>t threatned. Think not the riches of Gods lenity to be arguments &amp; ſignes of your innocency; co<g ref="char:cmbAbbrStroke">̄</g>clude not vpon eſcapes in humane con<g ref="char:EOLhyphen"/>ſiſtories, an impunity to your ſoules for euer: but know, that Diuine forbearance hath a time to be inexorable for any longer patience, and a milde indulgent Father to aſ<g ref="char:EOLhyphen"/>ſume the robes of an auſtere Iudge. And how preſumeſt thou to be able to ſtand before ſuch a preſence, no leſſe
+<pb n="16" facs="tcp:177907:11"/> then the Lord of Hoſts? whoſe glorious maieſty is in<g ref="char:EOLhyphen"/>acceſſible <note n="c" place="margin">1 Tim. 6. 16.</note>, might irreſiſtible <note n="d" place="margin">Acts 9. 5.</note>, iuſtice intaxable <note n="e" place="margin">Ier. 12. 1.</note>, an<g ref="char:EOLhyphen"/>ger intollerable <note n="f" place="margin">Pſa. 2. 12.</note>, and his all-diſcerning eyes vnſuffera<g ref="char:EOLhyphen"/>ble of the leaſt vncleanneſſe <note n="g" place="margin">Hab. 1. 13.</note>, before whom the very Angels tremble <note n="h" place="margin">2 Eſd. 8. 21.</note>, as conſcious of their owne impuri<g ref="char:EOLhyphen"/>ty <note n="i" place="margin">Compara<g ref="char:EOLhyphen"/>tiue, <hi>vid.</hi> Iob 4 18.</note>: at whoſe dreadfull diſplayes of iudgement both Saints and Angels ſhall be moued in a manner, and ſeeme to be ſtricken with amazement. And if the Iudges ſe<g ref="char:EOLhyphen"/>lected Fauorites are in likelihood to feare (the iudge<g ref="char:EOLhyphen"/>ment of ſome of the Ancients <note n="k" place="margin">
+                  <hi>Chryſ. ſuper illud,</hi> Mat. 24. 29. <hi>vid. Thom. Suppl.</hi> 3. <hi>partis Qu.</hi> 73. <hi>art.</hi> 3.</note>) if they (I ſay) ſhall feare, who notwithſtanding are out of perill; if the pil<g ref="char:EOLhyphen"/>lers of heauen ſhall ſhake with aſtoniſhment at the ter<g ref="char:EOLhyphen"/>rible deſcent of the Almighty, what then ſhall become of a world of enemies and vtter deſpairing Caſt-awayes? if it ſhall thus fare with the greene tree <note n="a" place="margin">Luk. 23. 31.</note>, <hi>quid fiet in a<g ref="char:EOLhyphen"/>rido:</hi> what ſhall be done in the dry? if the righteous ſcarcely be ſaued, <hi>vbi impius?</hi> 
+               <note n="b" place="margin">1 Pet. 4. 18.</note> where ſhall the vngodly and the ſinner appeare? eſpecially when laid againſt by ſo many Accuſers, conuicted by ſuch a multitude of con<g ref="char:EOLhyphen"/>ſpiring witneſſes. O man, thinke with thy ſelfe (if thou canſt for hardneſſe of heart) what a wonderfull perplexi<g ref="char:EOLhyphen"/>ty ſhall come vpon thee on that day! when, beſides the obiections of an omniſcious Iudge, the Diuell <note n="c" place="margin">Praeſto erit aduerſarius Diabolus. Auguſt.</note> (that old Promoter) ſhall lay to thy charge: thy brethren, whom euer thou haſt hurt or wronged, ſhall declare againſt thee: the creatures voluptuouſly and waſtefully abuſed, ſhall caſt it vpon thee <note n="d" place="margin">Iam 5, 3, 4, 5</note>: and laſtly, after all the reſt, thine owne Conſcience (as a thouſand witneſſes) ſhall enforce thee to become thine owne accuſer, and to ap<g ref="char:EOLhyphen"/>prehend in the bitterneſſe of thy ſoule, how <hi>Deus &amp; diet vltienum conuenerunt;</hi> The day of vengeance which thou neuer remembredſt, and the God of vengeance, whom thou neuer fearedſt, are come together vpon thee. O fearefull diſtractions and tortures of Conſcience! Theſe be deſperate caſes, and lamentable ſtreights: no place for repentance, no hope of releaſe, when the Lord chiefe Iuſtice of the world ſhall haue paſſed his ſentence. For
+<pb n="17" facs="tcp:177907:11"/> (as <hi>Eli</hi> to his vngracious ſonnes <note n="e" place="margin">1 Sam. 2. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>) <hi>If one man ſinne againſt another, the Iudge ſhall iudge him; but if a man ſinne againſt the Lord, who ſhall entreat for him?</hi> Man may be perſwaded by interceſſion of friends, and eaſily drawne with reſpect vnto perſons, be corrupted with rewards, and emblin<g ref="char:EOLhyphen"/>ded through affection: <hi>Hic Iudex nec gratiâ praeuenitur, nec miſericordiâ flectitur, nec pecuntâ corrumpitur, &amp;c</hi> 
+               <note n="f" place="margin">Auguſt.</note>. No ſuch matter in the Court of this righteous Iudge, the tranſcendency of whoſe wayes aboue mans is infinitely greater then the altitude of the higheſt heauens aboue the loweſt parts of the earth.</p>
+            <p>O thinke of this all ye that make ſo little conſcience of ſinne; apply it as a corroſiue to your wounded corrup<g ref="char:EOLhyphen"/>ted ſoules; peraduenture it may cauſe you to flye from the wrath to come: to conſider, that when mans impie<g ref="char:EOLhyphen"/>ty hath aduanced it ſelfe to the higheſt: when the iniqui<g ref="char:EOLhyphen"/>ty of the <hi>Amorites</hi> is come to the full, the world ſhall end, and God to reueale his iuſtice, ſhall exalt himſelfe in his owne ſtrength. Or if thou be ſworne againſt re<g ref="char:EOLhyphen"/>formation, well, Reioyce (O Man) in the iniquity of thy dayes, delight in the ſweetneſſe of ſtollen waters <note n="a" place="margin">Prou. 9. 17.</note>, make thy boaſts of the pleaſantneſſe of the bread of deceit, <hi>but know, that for all theſe things God ſhall bring thee to iudge<g ref="char:EOLhyphen"/>ment</hi> 
+               <note n="b" place="margin">Eccleſ. 11. 9.</note>. Man may be deluded with appearances, and guld with ſhadowes: but <hi>Gal.</hi> 6. 7. <hi>non illuditur Deus;</hi> God is not mocked; there's not diſſembling before him. He that hitherto hath paſſed by thy ſinnes in ſilence, and but laid the axe to the root of the tree; that as yet hath beene taken vp in whetting his Sword, in bending his Bow, and preparing his Arrowes, ſhall hew vp by the roots, and ſtrike to the quicke, and pierce thy very ſoule with the doome of damnation; <hi>Iudicabit Deus, God ſhall iudge.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> The further meditation whereof ſhould affect with a <note place="margin">For godly fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re in the beſt.</note> religious feare euen the choyceſt and deareſt of Gods children; as</p>
+            <p n="1">1. With a feare of Humility in regard of their dam<g ref="char:EOLhyphen"/>nable <note place="margin">1 Of Humility.</note>
+               <pb n="18" facs="tcp:177907:12"/> deſeruings, menſtruous righteouſneſſe, their droſ<g ref="char:EOLhyphen"/>ſie perfections; where if God ſhould make inquiſition, <hi>Nihil inueniret niſi quod damnaret.</hi> He ſhould finde in vs nothing but matter of condemnation. Yea, the holieſt Chriſtian, vpon termes of his owne vprightneſſe, were not able to anſwer him one of a thouſand. <hi>Iob,</hi> though neuer ſo highly approued by the Teſtimony of God <note n="c" place="margin">Iob 1. 8. &amp;</note> himſelfe, yet would he not anſwer his Iudge <note n="d" place="margin">Cap. 40. 4, 5.</note>, nor lift vp his head in his owne cauſe. <hi>Paul,</hi> though neuer ſo cleare and vnblameable as concerning the diſcharge of his Apoſtleſhip <note n="e" place="margin">1 Cor. 4. 4.</note>, yet would he not iuſtifie himſelfe, nor thruſt into the Lords harneſt. Alas (beloued) we are but ſhrubs in compariſon of thoſe tall Cedars. High time for vs to abhorre our ſelues in the duſt, when <hi>Iobs</hi> and <hi>Pauls</hi> can couer their faces; to diſclayme our owne pretended integrities, and by way of ſupplication to the Iudge, implore protection vnder the ſhadow of his wings, till the ſtorme of his indignation be ouerpaſt. <hi>Enter not into iudgement with thy ſeruant, O Lord</hi> 
+               <note n="f" place="margin">Pſal. 143. 2.</note>, <hi>for in thy ſight ſhall no man liuing be iuſtified. Vae etiam laudabili vitae hominum</hi> 
+               <note n="g" place="margin">
+                  <hi>Aug. Confeſſ. lib.</hi> 6. <hi>cap.</hi> 13.</note>. It were woe with the moſt commen<g ref="char:EOLhyphen"/>dable life of man, if thou ſhouldeſt examine it without mercy.</p>
+            <p n="2">2. It ſhould affect vs with a feare of ſedulity and care<g ref="char:EOLhyphen"/>fulneſſe to abſtaine ftom ſinne, to euidence the truth of <note place="margin">2 Of ſedulity.</note> our profeſſion in all ſobriety and godly demeanour. For when the Maſter is knowne to be ſtrait in exacting <note n="h" place="margin">Mat. 25. 26, 27.</note>, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is not for the Seruant to bee careleſſe in mannaging: and God to be ſo ſtrict in examining, 'tis not for a Chri<g ref="char:EOLhyphen"/>ſtian to be diſſolute in liuing. Wee ſee, when a man is to anſwer at the barre, how ſtrangely, many times, he is ſurprized with aguiſh paſſions, what ſlipping of eyes, beating of pulſes, panting of heart, houering of thoughts, for feare of the leaſt miſcarriage before the Iudges of this world, thoſe little globes of earth (as one cals them) and pictures of liuing clay? Well, <hi>Si tantum pertimeſcis iudicium pulueris</hi> 
+               <note n="a" place="margin">Greg.</note>, <hi>quâ formidine praeuidendum</hi>
+               <pb n="19" facs="tcp:177907:12"/> 
+               <hi>est iudicium Maieſtatis?</hi> He is the Iudge of Iudges that in the end muſt try and take notice of our doings: and a feareful thing to fall into the hands of the liuing God <note n="b" place="margin">Heb. 10. 31.</note>. How then can it be but that the thoughts of ſuch a pow<g ref="char:EOLhyphen"/>erfull Maieſty ſhould caſt vs along vpon our faces? <hi>Quid faciam cum ſurrexerit ad iudicandum Deus</hi> 
+               <note n="c" place="margin">Iob 31. 14.</note>? What ſhall I doe when God riſeth vp, and when hee viſiteth, what ſhall I anſwer him? O let it arme vs againſt the fiery darts of Satan, and ſerue to ſcare vs from the vn<g ref="char:EOLhyphen"/>fruitfull workes of darkeneſſe; let vs not wound our ſoules by conſenting to lying vanities; let vs not feare Conſciences by conniuing at knowne corruptions; let vs not bleſſe our ſelues in the addition of drunken<g ref="char:EOLhyphen"/>neſſe to thirſt, of ſinne to ſinne; but abſtaine from all enſnaring ſenſualities, and fight againſt all rebellious imaginations, and labour to ſlay them with this two<g ref="char:EOLhyphen"/>edged Sword; as a iudgement at hand, ſo a God to re<g ref="char:EOLhyphen"/>ueale it: <hi>Iudicabit Deus: God ſhall iudge.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>3</label> In the third place: Are we once to be iudged by a God to whom vengeance belongeth? let it ſerue to perſwade <note place="margin">For a timely preuention.</note> vs for a timely preuention to bee ſtrict and ſeuere in our owne trials. <hi>Quantum potes, teipſum coargue, inquire in te.</hi> (A diuine peece of counſell from a meere Moraliſt <note n="d" place="margin">Senec.</note>.) As farre as thou art able, attache thy ſelfe, ſearch into thy ſelfe (ſaith he) and at once ſuſtaine the perſon of an Accuſer, a ſeuere Iudge, a remorſefull Supplicant. To borrow theſe a while;</p>
+            <p n="1">1. Be thine owne Accuſer in the free confeſſion of thy ſinnes. <hi>Peccaui pater</hi> (as the prodigall childe) <hi>Father, I</hi> 
+               <note place="margin">1 By an humble confeſſion of our ſinnes.</note> 
+               <hi>haue ſinned againſt heauen and againſt thee.</hi> For it fares not in the Court of heauen, as it doth in our earthly Tribu<g ref="char:EOLhyphen"/>nals. With men a free confeſſion makes way for a con<g ref="char:EOLhyphen"/>demnation; but with God, the more a ſinner endeares his offence, the more hee extenuats the anger of his Iudge. Sinne cannot but call for iuſtice, as it is an offence againſt God; yet when once 'tis a wound to the ſoule, it moueth him to mercy and clemency. Wherefore as
+<pb n="20" facs="tcp:177907:13"/> 
+               <hi>Dauid</hi> hauing but reſolued to confeſſe his ſinnes <note n="e" place="margin">Pſal. 32 6.</note>, was accoſted eftſoone with an abſolution: So, <hi>Tu agnoſce, &amp; Dominus ignoſcet</hi> 
+               <note n="a" place="margin">Auguſt.</note>: Be thou vnfeyned in Confeſſing, and God will be faithfull in forgiuing <note n="b" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh 1. 9.</note>. Onely let <hi>Confeſſio peccati,</hi> be <hi>profeſſio deſinendi</hi> 
+               <note n="c" place="margin">Hila<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>: The acknowledgement of thy ſinne, an obligation to leaue it; and then thou mayſt build vpon it, <hi>Hee that confeſſeth and forſaketh, ſhall haue mercy.</hi> 
+               <note place="margin">
+                  <hi>d</hi> Prou 28. 13.</note>
+            </p>
+            <p>Be thine owne Iudge, and that in the ſtricteſt cenſure <note place="margin">2 By a ſeuere condemnati<g ref="char:EOLhyphen"/>on of our ſe ues.</note> and ſeuereſt condemnation of thy ſelfe; conſidering that of the Apoſtle, <hi>If we would iudge our ſelues, we ſhould not be iudged</hi> 
+               <note n="e" place="margin">1 Cor. 11. 31</note>: for there muſt needs be a Iudgement one way or other. Nothing ſhall goe ſcot-free that hath beene done againſt Gods Law. All our enormous acts, <hi>Aut ho<g ref="char:EOLhyphen"/>mine puniente, aut Deo iudicante plectentur,</hi> muſt either be puniſhed by our owne cenſure, or by the ſentence of God: And therefore to preuent the latter, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith Saint <hi>Chryſoſtome</hi> 
+               <note n="f" place="margin">
+                  <hi>Expoſ. in pſ.</hi> 4. 4.</note>,) Erect a Tribunall for thine owne Conſcience; and when that hath accuſed to the full, paſſe ſentence vpon thy ſelfe with the returning vnthrift, <note n="g" place="margin">Luk. 15. 21.</note> 
+               <hi>I am no more worthy to be called thy ſonne. Tibi Domine iuſtitia</hi> 
+               <note n="h" place="margin">Dan. 9. 7.</note>, <hi>&amp;c. To thee, O Lord, belongeth righteouſ<g ref="char:EOLhyphen"/>neſſe, but vnto vs confuſion of face.</hi>
+            </p>
+            <p n="3">3. And laſtly, after ſentence giuen, be an earneſt ſup<g ref="char:EOLhyphen"/>plicant vnto God for pardon, in the teares and ſobs of <note place="margin">3 By ſupplicati<g ref="char:EOLhyphen"/>on to God for pardon. Pſal. 51. 1.</note> the Pſalmiſt, <hi>Haue mercy vpon me, O God, after thy great goodneſſe, according to the multitude of thy mercies doe away mine offences</hi> 
+               <hi rend="sup">i</hi>. For (as <hi>Chryſoſtome</hi> ſweetly notes) <hi>Vbi mi<g ref="char:EOLhyphen"/>ſericordia flagitatur, interrogatio ceſſat</hi> 
+               <note n="k" place="margin">
+                  <hi>Hom.</hi> 2. <hi>in pſ.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note>, <hi>&amp;c.</hi> Where mercy is intreated, accounts are anſwered; where mercy is de<g ref="char:EOLhyphen"/>ſired, euen Iudgement it ſelfe relenteth. Indeed it might ſeeme a very deſperate courſe, to make our addreſſe vn<g ref="char:EOLhyphen"/>to the Iudge, were it not in a time of grace, in a day of ſaluation: This it is that puts life into the penitent ſoule, to wit, <hi>That God is in Chriſt, reconciling the world vnto himſelfe</hi> 
+               <note n="l" place="margin">2 Cor. 5. 19.</note>: <hi>And if any man ſinne, we haue an Aduoeate with the Father, Ieſus Christ the Righteous</hi> 
+               <note n="m" place="margin">1 Ioh. 2. 1.</note>. And therefore as
+<pb n="21" facs="tcp:177907:13"/> 
+               <hi>Themiſtocles,</hi> hauing offended King <hi>Philip,</hi> caught vp in his armes his young ſonne <hi>Alexander,</hi> and craued for the Princes ſake what he could not obtaine for his owne: So albeit thou haſt highly prouoked and incenſed the Iudge againſt thee, yet if by the hand of Faith thou apprehend and interpoſe the Lord Ieſus, <hi>Hic eſt filius meus dilectus</hi> 
+               <note n="n" place="margin">Mat. 3. 17.</note> He is the Fathers beloued ſonne, in whom he hath decla<g ref="char:EOLhyphen"/>red himſelfe to be well pleaſed. Thus then, let vs bee mindful of theſe important directions, and practiſe them to the furtherance of our reckoning with God: ſtraitly accuſe, ſeuerely condemne, and humbly implore forgiue<g ref="char:EOLhyphen"/>neſſe, that we may finde the Lord propitious in the day when hee takes vp his Throne to auenge himſelfe vpon all vnrighteouſneſſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>4</label> Laſtly (to end this poynt) <hi>Iudicabit Deus;</hi> Is it ſo that God ſhall iudge? Here is abundance of conſolation to re<g ref="char:EOLhyphen"/>leeue <note place="margin">For our ma<g ref="char:EOLhyphen"/>nifold conſo<g ref="char:EOLhyphen"/>lation.</note> vs in our deiections, and a ſweet encouragement in all our diſtreſſes to beare them with godly patience: For,</p>
+            <p n="1">1. Doth the world condemne thee for thy zeale in <note place="margin">1 In the caſe of holineſſe re<g ref="char:EOLhyphen"/>uiled.</note> the ſeruice of God? reproachfully ſcorne thee for thy care to maintaine good workes? not bluſh to traduce thee with imputations of preciſeneſſe, conceited ſingu<g ref="char:EOLhyphen"/>larity, phariſaicall hypocriſie? O, but if thy conſcience condemne thee not all this while, if that be rectified by the ſacred word of God; if thou ayme at his glory in purſuing thine owne ſaluation, and ſide not with the di<g ref="char:EOLhyphen"/>ſturbers of the Church: Goe on, (good Chriſtian) in the practice of Piety, diſcourage not thy ſelfe in thy lauda<g ref="char:EOLhyphen"/>ble endeauours, but recount with comfort that the Lord is thy Judge <note n="a" place="margin">1 Cor. 4. 4.</note>, with a <hi>Scio cui crediderim: I know on whom I haue beleeued</hi> 
+               <note n="b" place="margin">2 Tim 1. 12.</note>. And,</p>
+            <p n="2">2. Art thou wrongfully adiudged in the erroneous <note place="margin">2 In the caſe of iuſtice refu<g ref="char:EOLhyphen"/>ſed.</note> Courts of men? are truth and righteouſneſſe gone aſide from their proper places? is equity neglected, and po<g ref="char:EOLhyphen"/>uerty ouer lay'd? well, haue patience a while, cheare vp thy fainting ſpirits; there is a God that beholdeth
+<pb n="22" facs="tcp:177907:14"/> the innocency of thy cauſe, vnto whom thou haſt liber<g ref="char:EOLhyphen"/>ty <note place="margin">c Ad Tribunal aeternum iuſti Judicis prouo<g ref="char:EOLhyphen"/>catio ſalua eſt. Penar.</note> to make thy laſt appeale. <hi>Plead thou my cauſe, O Lord, with them that ſtriue with me, and fight againſt them that fight againſt me</hi> 
+               <note n="d" place="margin">Pſa. 35. 1.</note>. Or,</p>
+            <p n="3">3. Art thou otherwiſe iniuried by the hands of ma<g ref="char:EOLhyphen"/>licious men? and doth a penurious eſtate diſable thee to ſue for amends? Doth a <hi>Nimrod</hi> oppreſſe thee? a <hi>Laban</hi> 
+               <note place="margin">3. In the caſe of innocency oppreſſed.</note> defraud thee? a couetous Land-lord gripe thee? well yet, take not the matter into thine owne hands, by at<g ref="char:EOLhyphen"/>tempting vnlawfull courſes; preſume not to be Iudge in thine owne cauſe, for default of a preſent redreſſe; but often remember what the Apoſtle taught his <hi>Theſſaloni<g ref="char:EOLhyphen"/>ans,</hi> 
+               <note n="e" place="margin">2 Theſ. 1. 6.</note> 
+               <hi>It is a righteous thing with God to recompence tribulati<g ref="char:EOLhyphen"/>on vnto them that trouble you.</hi>
+            </p>
+            <p>Laſtly, and is thy ſpirit wounded with repining ad<g ref="char:EOLhyphen"/>miration, <note place="margin">4. In the caſe of impiety ad<g ref="char:EOLhyphen"/>uanced.</note> at the flouriſhing eſtate of the wicked? to con<g ref="char:EOLhyphen"/>ſider how thine enemies proſper, and are mighty, and many in number; whereas commonly the righteous are humbled with ſorrowes, and fed with the bread of teares? well, but <hi>ne accendaris;</hi> fret not thy ſelfe becauſe of the vngodly <note n="a" place="margin">Pſa. 37. 1.</note>: call not into queſtion the diſpenſati<g ref="char:EOLhyphen"/>ons of the Almighty; but as <hi>Abraham</hi> in another caſe, <hi>Shall not the Iudge of all the earth doe right</hi> 
+               <note n="b" place="margin">Gen 18. 25.</note>? Goe but into the Sanctuary of God <note n="c" place="margin">Pſ. 73. 16, 18.</note> with dependance vpon the truth of his Word, and cauſe of emulation ſhall eaſily vaniſh a<g ref="char:EOLhyphen"/>way. Tarry but the Lords leiſure, and he comes full ſud<g ref="char:EOLhyphen"/>denly to reconcile and cleare the difference: <hi>Iudicabit Deus, God ſhall iudge.</hi>
+            </p>
+            <p>Thus (good brethren) of what nature ſoeuer our trou<g ref="char:EOLhyphen"/>bles and grieuances are; whether holineſſe reuiled, or iuſtice refuſed, or innocency oppreſſed, or impiety ad<g ref="char:EOLhyphen"/>uanced, yet in conſideration of a God for our Iudge, <hi>Let vs runne with patience the race that is ſet before vs. Behold</hi> (ſaith S. <hi>Iames</hi> 
+               <note n="d" place="margin">Iam. 5. 7, 8.</note>) <hi>the husbandman waiteth for the precious fruit of the earth, and hath long patience for it vntill hee re<g ref="char:EOLhyphen"/>ceiue the former and the latter raine.</hi> Be ye alſo patient, ſta<g ref="char:EOLhyphen"/>bliſh your hearts, for the comming of the Lord draweth
+<pb n="23" facs="tcp:177907:14"/> nigh. With, which words of comfort</p>
+            <p>I cloſe vp the ſecond Point, the <hi>Quis iudicabit? God ſhall iudge.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> The next are the parties to be iudged <hi>[Men]</hi> and that not by excluſion; onely men (for the Angels <note n="e" place="margin">
+                  <hi>Tho.</hi> 3. <hi>p. qu.</hi> 59. <hi>art.</hi> 6.</note> ſhall be iudged, eſpecially they that fell <note n="f" place="margin">Iude 6.</note>; inanimate creatures alſo <note n="g" place="margin">2 Pet. 3. 7.</note>, <hi>ſuo modo,</hi> according to their manner;) but by vni<g ref="char:EOLhyphen"/>uerſall incluſion, <hi>all men;</hi> of all Nations, Ages, Eſtates, Qualifications, Periods: Nations, be they neuer ſo different in their manners and behauiours, in their Idi<g ref="char:EOLhyphen"/>omes and Languages, in their Rites and Ceremonies, in their Lawes and Cuſtomes, <hi>Omnes congregabuntur,</hi> They ſhall all be gathered before Chriſt <note n="h" place="margin">Mat. 25. 32.</note>. Ages, from the worlds <hi>Geneſis</hi> to the <hi>Exodus</hi> and diſſolution; from the firſt man <hi>Adam,</hi> to the laſt of his line; male and female, yong and old, all muſt be cited: Eſtates, from the talleſt Cedar, to the loweſt ſhrub; from the mightieſt Mo<g ref="char:EOLhyphen"/>narch, to the pooreſt begger: high and low, noble and baſe, <hi>in hoc pares,</hi> all muſt be conuented. Qualifications from the profoundeſt <hi>Gamaliel</hi> to the ſillieſt <hi>Ignaro;</hi> from the ſoundeſt Chriſtian to the ſonne of perdition: Sheepe and Goates, good and bad, all muſt be iudged: Periods, whether aliue to be changed, or dead to be reuiued <note n="a" place="margin">1 Cor. 15. 51, 52.</note>: how euer they haue paſſed through ſeuerall tranſmuta<g ref="char:EOLhyphen"/>tions, all muſt be preſented vpon this publike ſtage: 2 <hi>Tim.</hi> 4. 1. <hi>The Lord ſhall iudge the quicke and the dyed at his appearing, and his Kingdome.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>
+               </label> For in ſome reſpect or other, we are all ſtewards in the Lords huſhold, all labourers in the Lords Vineyard, all husbandmen in the Lords field, all betruſted with the Lords tal<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s; and therefore accounts muſt be giuen by all. <hi>We muſt all appeare</hi> (ſaith the Apoſtle) <hi>before the iudge<g ref="char:EOLhyphen"/>ment ſeat of Chriſt, that euery one may receiue the things done in his hody, according to that he hath done, whether it be good or bad</hi> 
+               <note n="b" place="margin">2 Cor. 5. 100<g ref="char:punc">▪</g>
+               </note>.</p>
+            <p>And yet this vniuerſality might proue a nullity, were all exceptions of force: For,</p>
+            <p n="1">
+               <pb n="24" facs="tcp:177907:15"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> 1. In death there is no remembrance, <hi>Pſal.</hi> 6. 5. and therefore the dead are vncapable of iudgement.</p>
+            <p n="2">2. And according to the Originall Text, <hi>Hee that be<g ref="char:EOLhyphen"/>leeueth in God, ſhall not come into iudgement</hi> 
+               <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>, <hi>Ioh.</hi> 5. 24. therefore the good are exempt from that. Yea, and</p>
+            <p n="3">3. The bad haue their doome beforehand. For, <hi>Ioh.</hi> 3. <hi>He that beleeueth not, is condemned already.</hi>
+            </p>
+            <p>How then can this Doctrine be auouched for truth, <hi>That there ſhall be a iudgement of all men?</hi> To take them in order.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Solut. </seg>
+               </label> 1. We beleeue the iudgement of the dead, not in <hi>ſenſu compoſito,</hi> dead in that inſtant; but in <hi>ſenſu diuiſo,</hi> rayſed from the dead; as alſo to giue them their difference from thoſe that are found aliue. For wee ſhall not all ſleepe, 1 <hi>Cor.</hi> 15. Some ſhall remaine aliue, 1 <hi>Theſ.</hi> 4. And the powerfull voyce of the Archangell, whom euer it takes not ſo, it ſhall make ſo: Euen they that are in the graues, ſhall heare his voyce and ſhall come forth, <hi>Ioh.</hi> 5. The Sea, and Death, and Hell, all ſhall ſurrender their dead, <hi>Reu.</hi> 20. Wherefore no contradiction in the iudgement of ſuch, ſeeing firſt they bee raiſed, and afterwards iudged.</p>
+            <p n="2">2. For the good, 'tis beyond all queſtion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Rom.</hi> 8. <hi>There is no condemnation to them that are in Christ Ieſus.</hi> God hath exempted them from the iudgement of condemnation; but yet they muſt be iudged with the ſentence of abſolution. For that which they haue here in part, muſt then be perfected; and that which they haue here by Faith ſhall then be reuealed; a finall deliuerance from the thraldome of this world to the glorious liber<g ref="char:EOLhyphen"/>ty of the ſonnes of God.</p>
+            <p>Laſtly, concerning the bad, it cannot bee denyed, but that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in ſome reſpects, they are doomed be<g ref="char:EOLhyphen"/>forehand: As</p>
+            <list>
+               <item>1. In Gods infallible preſcience, vnto which all fu<g ref="char:EOLhyphen"/>tures are preſent.</item>
+               <item>2. In the volume of his reuealed will, condemned
+<pb n="25" facs="tcp:177907:15"/> vpon ſuppoſall of infidelity.</item>
+               <item>3. In the bookes of their owne Conſciences, accuſed and adiudged for ſinne.</item>
+               <item>4. In reſpect of torments begun, either here while they are in their bodies, or elſewhere in their deceaſed ſoules.</item>
+            </list>
+            <p>I ſay, they are doomed already in regard of theſe be<g ref="char:EOLhyphen"/>ginnings: but,</p>
+            <list>
+               <item>1. To the Iudgement already paſſed, there wants an open manifeſtation of Equity and Iuſtice.</item>
+               <item>2. To the paines already inflicted, there reſts an aggra<g ref="char:EOLhyphen"/>uation by their bodies reſumed.</item>
+               <item>3. To the vengeance of former prauity, there wants an infringement of further liberty.</item>
+            </list>
+            <p>Then onely are they iudged to the full, when their doome is proclaimed, their bodies reioyned, and them<g ref="char:EOLhyphen"/>ſelues from the Saints of God euerlaſtingly parted. All then muſt come forth vnto iudgement, though not all a<g ref="char:EOLhyphen"/>like: The wicked like theeues that are brought forth pinnion'd and bound with chaines and fetters, with hearts deſpairing, hands trembling, conſciences accuſing, and their owne tongues condemning them. The godly, like the Innocent vniuſtly empriſoned, that hath confi<g ref="char:EOLhyphen"/>dence in the goodneſſe and vprightneſſe of his cauſe, ex<g ref="char:EOLhyphen"/>ceedingly ioying at the comming of his Iudge, who (he knowes) vpon good intelligence will ſtrike off his ſhackles, and ſet him at liberty. Wherefore albeit good and bad be reſerued to a day of appearance, yet the faith<g ref="char:EOLhyphen"/>full onely long for it, and expect it as a day of reward; <hi>vt intra eum diem &amp; victi erubeſcant, &amp; victores palmam a<g ref="char:EOLhyphen"/>dipiſcantur victoriae</hi> 
+               <note n="a" place="margin">Ambroſ.</note> To the end that on that day the con<g ref="char:EOLhyphen"/>uicted may be cloathed with ſhame, and valiant conque<g ref="char:EOLhyphen"/>rours obtaine the glorious prize of their bleſſed victory. In conſideration whereof the beleeuer hath caſt off the ſpirit of bondage to feare any more; and the day which affrighteth others, is the happy ambition of his deſires; while he ſaith with the Prophet <hi>Dauid,</hi> 
+               <note n="b" place="margin">Pſ. 42. 2.</note> 
+               <hi>My ſoule is a</hi>
+               <pb n="26" facs="tcp:177907:16"/> 
+               <hi>thirſt for God, yea euen for the liuing God; when ſhall I come</hi> 
+               <note place="margin">
+                  <hi>b</hi> Pſal. 42. 2.</note> 
+               <hi>to appeare before the preſence of God?</hi> But the point thus e<g ref="char:EOLhyphen"/>uidenced to our hands, I need not enlarge: let me onely enforce it with a word of Application, and ſo pro<g ref="char:EOLhyphen"/>ceede.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> 1. Then, is it Gods appointment for Men to be final<g ref="char:EOLhyphen"/>ly iudged: and men for number <hi>all,</hi> from the firſt gene<g ref="char:EOLhyphen"/>ration to the laſt. Conſider then a while (O Chriſtian <note place="margin">For admirati<g ref="char:EOLhyphen"/>on of Gods wiſdome and power.</note> ſoule) and admire the vnlimited Generality of the laſt Iudgement. For what a wonderfull multitude ſhall we then behold, when ſea and land ſhall haue emptied them<g ref="char:EOLhyphen"/>ſelues in a moment, and rendred vp all their ſpoyles! when <hi>Adam</hi> and <hi>Eue</hi> ſhall meruaile at the ſight of ſo many ages together; the Patriarchs bleſſe themſelues at the ſight of ſo many reaching poſterities; the Chriſtian world be rauiſht at the ſight of ſuch a populous conflu<g ref="char:EOLhyphen"/>ence of <hi>Iewes,</hi> of <hi>Turkes,</hi> of <hi>Infidels</hi> in one place. How ſtrangely will it affect vs to behold in their ſeuerall ſtati<g ref="char:EOLhyphen"/>ons <hi>Xerxes, Darius, Alexander, Croeſus,</hi> with all the fa<g ref="char:EOLhyphen"/>mous Monarchs and Princes of the world before the Tri<g ref="char:EOLhyphen"/>bunall of God? yea, what a meruailous alteration ſhall we then behold, when all the perſecuted and afflicted Saints of God ſhall ariſe in iudgement and eternally ouer<g ref="char:EOLhyphen"/>come? <hi>Abel</hi> againſt <hi>Cain, Iſaac</hi> againſt <hi>Iſmael, Dauid</hi> againſt <hi>Saul,</hi> Martyrs againſt Tyrants, Poore againſt Oppreſſours, and God for his choſen againſt all their ene<g ref="char:EOLhyphen"/>mies. All which conſidered, we are too too ſtupid (be<g ref="char:EOLhyphen"/>loued) if we paſſe without admiration, if we breake not into his praiſes who is Lord and Iudge ouer all, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: the ſtrong and immortall God. Bleſſed Creator, how bottomeleſſe is the depth of thy wiſdome! incomprehenſible the tranſcendency of thy power! that art able to put life into the duſt, with ſuch facility to runne through ſo many ages, and in a moment, in the twinkling of an eye, to ſeparate the Sheepe from the Goates for euer.</p>
+            <p>But I liſt not to reſt in admiration. Rather in the ſe<g ref="char:EOLhyphen"/>cond
+<pb n="27" facs="tcp:177907:16"/> place, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> If the Iudgement be of ſuch an vnbounded nature, that it fetcheth in all men: let it ſerue to informe <note place="margin">For intimati<g ref="char:EOLhyphen"/>on of our inc<g ref="char:EOLhyphen"/>uitable ap<g ref="char:EOLhyphen"/>pearance.</note> vs from the higheſt to the loweſt, of the incuitable ne<g ref="char:EOLhyphen"/>ceſſity of our laſt appearance. <hi>Nemo latebit, nemo euadet:</hi> no lurking vnder Mountaines, no conſulting for eſcape in that day; but <hi>Adam, vbi es? Adam, where art thou? Cain, vbi frater tuus? Where's thy Brother? voca opera<g ref="char:EOLhyphen"/>rios:</hi> 
+               <note n="a" place="margin">Mat. 20. 8.</note> 
+               <hi>Call the labourers:</hi> if the labourers, no exemption of loyterers. Man, whoſoeuer thou art, Prince or Prieſt, or one of the People, <hi>Redde rationem,</hi> 
+               <note n="b" place="margin">Luk. 16. 2.</note> 
+               <hi>giue an account of thy Stewardſhip.</hi> Then fooliſh <hi>Plato</hi> (ſaith <hi>Hierome)</hi> ſhall appeare with his Schollers; <hi>Aristotle</hi> ſhall be confuted with all his arguments: <hi>Herods</hi> pompous ſtate ſhall be turned to ſhame, <hi>cum filius pauperculae,</hi> when that Sonne of the Virgin ſhall come to iudge the world. 'Twas a morning alarme to that wiſe <hi>Macedonian</hi> Prince, <hi>Phi<g ref="char:EOLhyphen"/>lippe, memento te eſſe hominem.</hi> O King, remember thou art a man. An excellent memorandum to admoniſh of his frailty, to tell him that he muſt dye. O but after death comes the Iudgement; and haply that was more then he apprehended. Well, if the extent of the one be as <note place="margin">
+                  <hi>c</hi> Heb. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 27.</note> generall as the other, if iudgement begin where mor<g ref="char:EOLhyphen"/>tality makes an end, meaſure not your liues (yee Elders of the People) and reckon not your happineſſe by the fa<g ref="char:EOLhyphen"/>ding glory of the world; let not the rich man preſume vpon his abundance; let not the poore man dreame of a <hi>Forma pauperis;</hi> but let euery man aſſume for his owne particular, <hi>Et ego ſum homo:</hi> (as <hi>Auſtine</hi> in another caſe) Euen I alſo am a man, borne to be changed, and ſo to be iudged.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>3</label> Laſtly, (to ſhut vp this point) Seeing the finall iudge<g ref="char:EOLhyphen"/>ment is to paſſe vpon all the world, let vs labour in wiſe<g ref="char:EOLhyphen"/>dome ſo to demeane our ſelues, that it may be for vs, not <note place="margin">For propara<g ref="char:EOLhyphen"/>tion, that the day may goe with vs.</note> againſt vs; that as by nature we are men, and with the world to be iudged, we may be graciouſly prepared with all the Saints to be acquitted and ſaued eternally. It is written of the <hi>Ephraimites</hi> in the 12. of <hi>Iudges,</hi> that no
+<pb n="28" facs="tcp:177907:17"/> leſſe than 42000 were taken at the paſſages of <hi>Iordan,</hi> diſcouered by their pronunciation, and ſlaine by the men of <hi>Gilead.</hi> Need I moralize? For the paſſages then of <hi>Ior<g ref="char:EOLhyphen"/>dan,</hi> we haue the ſtraights of the laſt Iudgement; and for thoſe wrangling <hi>Ephramites,</hi> remorſeleſſe ſinners; who albeit in this life they may eſcape vnpuniſhed, and paſſe ſecurely by the Cenſures of men (eſpecially your grand Impoſtours, whoſe Religion conſiſts in formality) yet at length they are knowne in their different natures; a wrong pronunciation betrayes theſe <hi>Ephramites; Sibbo<g ref="char:EOLhyphen"/>leth</hi> for <hi>Shibboleth,</hi> Hypocriſie for Sincerity, vnrighte<g ref="char:EOLhyphen"/>ouſneſſe for faith, and a good Conſcience diſcouers their Tribe, and damnes their ſoules for euer.</p>
+            <p>To preuent ſuch a woefull deſolation, let it be our pro<g ref="char:EOLhyphen"/>uidence, like ſo many natiue <hi>Gileadites,</hi> to take heed vnto our wayes, that we offend not in our tongues, to liue righteouſly, ſoberly, and godly in this preſent world, and to frame our ſelues to the Apoſtles dialect, <hi>I haue fought a good fight, I haue finiſhed my Courſe, I haue kept the faith;</hi> 
+               <note place="margin">2 Tim. 4. 7, 8.</note> 
+               <hi>henceforth there is layd vp for mee a Crowne of righteouſneſſe.</hi>
+            </p>
+            <p>And ſo from the parties to bee iudged, I am come to the Cauſes to be examined; <hi>Occulta hominum; The ſecrets of men.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] Not by way of Reſtriction, but of ampli<g ref="char:EOLhyphen"/>fication, <note place="margin">A two-fold</note> and to diſtinguiſh from Humane trials. </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> Where the point of Inſtruction is this, <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>That there is no corruption ſo priuily foſtered, no iniquity ſo couertly contri<g ref="char:EOLhyphen"/>ued, but the Lord ſhall ſeuerely examine, and openly iudge it at the laſt day.</hi> The ſecret conueyances, and practiſes of bloody hands, the ſecret ſuſurrations and buzzings of falſe tongues, the ſecret imaginations and thoughts of vnſanctified hearts, all fall within the compaſſe of this Iudgement. Though that's not all.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>No righteouſneſſe of the Saints ſo virulently traduced, no innocency ſo miſtaken, no ſincerity ſo beſmeared with the aſper<g ref="char:EOLhyphen"/>ſions of damned Hypocriſie, which ſhall not then be moſt cleare<g ref="char:EOLhyphen"/>ly manifeſted, and rewarded openly.</hi> They are the words of
+<pb n="29" facs="tcp:177907:17"/> the Preacher, <hi>God ſhall bring euery worke into Iudgement, with euery ſecret thing, whether it be good, or whether it be e<g ref="char:EOLhyphen"/>uill</hi> 
+               <note n="a" place="margin">Eccl. 12. <hi>vlt.</hi>
+               </note>. To take them promiſcuouſly together.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>
+               </label> Leſſe it cannot be than a manifeſtation of ſecrets, where the Iudge is by nature Omniſcious, a reader of the moſt retired thoughts, a diſcloſer of the darkeſt myſteries. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note n="b" place="margin">Heb. 4. 1-3.</note>. All things are naked and open, anatomized (as it were) and cut vp before his eyes. No heart of man ſo darkely impriſoned, but the Lord beholds it; no thought in his heart ſo ſilently conceiued, but the Lord diſcries it; no luſt in his thought ſo ſecretly blown and kindled, but the Lord diſcernes it; no ſeed of vngodlineſſe ſo inuiſibly rooting in the ſoule, but the Lord perceiues it. <hi>Hee ſear<g ref="char:EOLhyphen"/>cheth all hearts</hi> (ſaith <hi>Dauid) and vnderſtandeth all the ima<g ref="char:EOLhyphen"/>ginations of the thoughts</hi> 
+               <note n="c" place="margin">1 Chr. 28.</note>. <hi>He knowes our downe-lying, and our vp-riſing, he vnderſtandeth our thoughts long before. He is a<g ref="char:EOLhyphen"/>bout our paths, and about our beds, and eſpyeth out all our wayes</hi> 
+               <note n="d" place="margin">Pſ. 139. 1, 2.</note>. Wherefore rightly is hee conceiued vnder the name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to ſee, as a God vnto whom all hearts be open, all deſires knowne, and from whom (ſaith our Church) no ſecrets are hid <note n="e" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ui ſilentium confitetur, &amp; ſine voce mens loquitur.</hi> Auſt.</note>.</p>
+            <p>Man may know the ſecrets of his owne, he cannot of anothers heart; nor thoſe of his owne but by examina<g ref="char:EOLhyphen"/>tion, nor after exacteſt Scrutiny but with inadequation to the truth. No, for the heart is deceitfull aboue all things: Who can know it? (ſaith the Prophet <note n="f" place="margin">Ier. 17. 9.</note>.) Well yet, <hi>Si nemo, non tamen nullus.</hi> The Lord knowes it (be<g ref="char:EOLhyphen"/>loued) and beholds it from his holy place: No need of an Informer to promote the cauſe: Hee hath for failing ſeuen eyes, which runne to and fro through the whole earth <note n="g" place="margin">Zech. 4. 10.</note>. Vpon which if you require a Comment, <hi>Totus oculus eſt</hi> (ſaith S. <hi>Auſten)</hi> God is all eye; and ſo conſide<g ref="char:EOLhyphen"/>reth our wayes (ſaith <hi>Gregory) Vt minutiſſimae cogitationes indiſcuſſae non maneant.</hi> Euery mans worke, nay, euery thought muſt be brought to triall. For his knowledge of the worlds concealements, and the vnobſerued ſanctity
+<pb n="30" facs="tcp:177907:18"/> of his Choſen, is nothing leſſe than an vnpracticke Theo<g ref="char:EOLhyphen"/>ry. He ſits not in the heauens as an idle Spectator, with a regardleſſe reuengeleſſe eie; but that which he knowes, he records; and what he records, he will cenſure at the vnclaſping of his booke of remembrance; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>The ſecrets of men.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Which preſents vs in the firſt place, with the fearefull condition of ſelfe-deceiuing ſinners, that dreame of ſecu<g ref="char:EOLhyphen"/>rity, becauſe they can ſinne with ſecrecy. Like the Atheiſt <note place="margin">For diſcouery of the fearfull eſtate of cloſe ſinners: As</note> in the 10. <hi>Pſal. Tuſh, God hath forgotten, he hideth his face, he will neuer ſee it.</hi> As if they held it for a ſafe poſition, <hi>Be<g ref="char:EOLhyphen"/>ne qui latuit, bene vixit;</hi> and ſinne were no ſinne, where man had no ſight. But Hypocrite, wilt thou outwardly <note place="margin">The Hypo<g ref="char:EOLhyphen"/>crite.</note> appeare like a goodly painted Tombe, and be lined with rottenneſſe and corruption? Wilt thou dig full deepe to hide thy Counſell from the Lord? and thinke with out<g ref="char:EOLhyphen"/>ward ſeruices to ouer-ſhadow an vngodly heart? <hi>Intus Nero, foris Cato, totus ambiguus?</hi> Adulterer, can nothing <note place="margin">Adulterer.</note> ſcare thee ſaue the eyes of a mortall man? art thou wai<g ref="char:EOLhyphen"/>ting for the twylight, and expecting till the Sable hang<g ref="char:EOLhyphen"/>ings of the night beſpread themſelues about thee? canſt thou mantle thy ſelfe with the darkneſſe, in the morning wipe thy mouth, and thinke it ſhall neuer be knowne? Temporizer, is this the height of thy ſoaring wiſdome <note place="margin">Temporizer.</note> to maintayne correſpondencie with the times? and neg<g ref="char:EOLhyphen"/>lecting the Common good to deuote thy ſelfe to thine owne? is this thy Religion to conforme to the preſent ſtate with indifferency of affection to a change? Slande<g ref="char:EOLhyphen"/>rer, <note place="margin">Priuie ſlande<g ref="char:EOLhyphen"/>rer.</note> is this thy occupation to wound with inſenſible blowes? and ſecretly by falſe information to draw men into open diſgrace? Tradesman, and whateuer dealer in <note place="margin">Vnconſciona<g ref="char:EOLhyphen"/>ble Tradeſ<g ref="char:EOLhyphen"/>man, &amp;c.</note> the commodities of this world, art thou priuileged by deceiuable words to ſet a gloſſe vpon vnanſwerable wares? to pretend commutatiue inſtice with intention of vnconſcionable gaine? Thinkeſt thou tis enough to diſ<g ref="char:EOLhyphen"/>charge thee, that thy brother cannot punctually diſcerne thee? Well (whoſoeuer thou art) if thy carriages bee ſo
+<pb n="31" facs="tcp:177907:18"/> cunningly, ſo handſomely conueighed, that neither in<g ref="char:EOLhyphen"/>duſtry nor policy can vnueyle and diſcloſe thee, yet know, there is a God who is perfectly acquainted with thy inmoſt vaults &amp; concauities; a conſuming fire <note n="a" place="margin">Heb. 12. 29.</note>, that ſearcheth out thy hypocriticall ſimulation; a Father of Lights <note n="b" place="margin">Iac. 1. 17.</note>, that eſpyes thee through palpable darkeneſſe. Though with <hi>Thamar</hi> thou muffle thy face <note n="a" place="margin">Gen. 38. 15.</note>, with <hi>Adam</hi> art behinde the buſhes <note n="b" place="margin">Gen. 3. 8.</note>, with <hi>Sarah</hi> behinde the doore <note n="c" place="margin">Gen. 18. 9.</note>, or poſting with <hi>Gehezi</hi> for a bribe <note n="d" place="margin">2 King. 5.</note>, yet the eye of the Lord is fixt vpon thee, and in caſe of impenitency hee will declare againſt thee. That (as once <hi>Epicurus</hi> in <hi>Se<g ref="char:EOLhyphen"/>neca) Quid ſi tuta eſſe poſſint ſcelera, ſi ſecura eſſe non poſſint?</hi> Well mayſt thou be able to hide the fact, thou canſt not for euer be ſecure from the Iudge. <hi>Quem nulla vnquam humana vis elidet, aut acumen eludet</hi> 
+               <note n="e" place="margin">
+                  <hi>Lipſ. de conſt. lib.</hi> 1. <hi>cap.</hi> 17.</note>. No meanes of delu<g ref="char:EOLhyphen"/>ding Gods Tribunall: no ſig-leaues to couer the naked<g ref="char:EOLhyphen"/>neſſe of ſinne. Neither <hi>Achans</hi> theft, nor <hi>Sauls</hi> hypo<g ref="char:EOLhyphen"/>criſie, nor the Curtezans curtaines, nor <hi>Iehu's</hi> policie, nor <hi>Hamans</hi> treachery, nor <hi>Ananias</hi> ſacriledge, nor any other ſecret impiety, but the day of accompt ſhall cleare<g ref="char:EOLhyphen"/>ly reueale it, and the God of ſpirits condemne for all. Inſomuch, as if here thou wouldſt often bluſh for ſhame, had thy breaſt but a <hi>Momus</hi> his grate before it, for men to be prying into thy thoughts; if here thou wouldſt loath and abhorre thy ſelfe in caſe of a ſudden ſurpriſion as thou acteſt thy ſecret folly (haply with a <hi>num inueni<g ref="char:EOLhyphen"/>ſti</hi> 
+               <note n="f" place="margin">1 Kin. 21. 20.</note>? haſt thou found me, O mine enemy?) how then ſhall it abaſh thee, when after ſo long concealement from the notice of men, the very heart of thy heart ſhall be plainly vnfolded, and the darkneſſe of thy clan<g ref="char:EOLhyphen"/>culary delights irradiated with the glorious beames of iuſtice in the face of God and his holy Angels?</p>
+            <p>Goe to then (euery lurking <hi>Tenebrio)</hi> applaud thy ſelfe in thy ſhifts and deuiſes, ſing a requiem to thy ſoule vp<g ref="char:EOLhyphen"/>on withholden Iudgements; but know, that as Conſci<g ref="char:EOLhyphen"/>ence which is a thouſand witneſſes, hath a time to ac<g ref="char:EOLhyphen"/>cuſe thee: So God, who is infinitely more then a thou<g ref="char:EOLhyphen"/>ſand
+<pb n="32" facs="tcp:177907:19"/> conſciences, a day to reproue thee; (they are the words of his owne mouth) <hi>I will reproue thee, and ſet be<g ref="char:EOLhyphen"/>fore thee the things that thou haſt done</hi> 
+               <note n="g" place="margin">Pſa. 50. 21.</note>.</p>
+            <p>Thus hauing dealt with the delinquent in <hi>occulto,</hi> we may ſeeme to haue forgotten the ſinner in <hi>propatulo,</hi> whom the preſence of men and Angels deters not from vngracious courſes: but,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Secondly, euen he alſo hath his blow, were it his hap<g ref="char:EOLhyphen"/>pineſſe to be ſenſible of it: For if the ſmothered workes of darkeneſſe eſcape not diuine enquiry, what then ſhall <note place="margin">To exagge<g ref="char:EOLhyphen"/>rate the iudg<g ref="char:EOLhyphen"/>ment of no<g ref="char:EOLhyphen"/>torious tranſ<g ref="char:EOLhyphen"/>greſſours.</note> be the end of notorious villanies, proclaimed abomina<g ref="char:EOLhyphen"/>tions? If the ſecrets of the night ſhall be clearely ma<g ref="char:EOLhyphen"/>nifeſted, how then can it be but that the out-brauings of roaring <hi>Ephraimites</hi> ſhould be cenſured with a mercileſſe doome? If publikely in the open Sunne thou dare flye in thy makers face, not fearing to diſhonour the glori<g ref="char:EOLhyphen"/>ous name of Chriſt Ieſus, to ſtabbe his ſides, to rip his wounds with direfull blaſphemous oathes, to prophane his day, to diſgrace his Miniſters, with other the like enormities: Certainly, if a timely repentance preuent not approaching vengeance, thou canſt not auoid it, but be ſo much the ſorer puniſhed, as the very ſecrets of ſin<g ref="char:EOLhyphen"/>full men ſhall not be exempt from the laſt Iudgement.</p>
+            <p>This for the vngodly and the ſinner. But,</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> 3. The ſincereſt Chriſtian muſt looke for his <hi>demen<g ref="char:EOLhyphen"/>ſum</hi> in the further application of it. For whereas this <note place="margin">To enforce vpon profeſ<g ref="char:EOLhyphen"/>ſours a walk<g ref="char:EOLhyphen"/>ing with God in ſincerity.</note> Iudgement is of ſuch a diſcouering nature, that not the cloſeſt wickedneſſe can poſſibly be ſhrouded from it; O let it perſwade vs to obſerue our wayes, and to keepe our hearts with all diligence; to make a Mittimus for hypocriſie and guilded piety: for Couetouſneſſe, that ſe<g ref="char:EOLhyphen"/>cret kinde of Idolatry; to beware of retyred as well as of open ſinnes; and to reckon it with that wiſe Mora<g ref="char:EOLhyphen"/>liſt, <note place="margin">Senec.</note> for the greateſt glory and triumph of innocency, <hi>non peccare vbi liceat:</hi> Euen there and then to giue backe from offending, where circumſtances of time and place might ioyntly concurre to fauour vs. 'Twas wholeſome
+<pb n="33" facs="tcp:177907:19"/> counſell which a <hi>Rabbin</hi> gaue to his Scholler, to remem<g ref="char:EOLhyphen"/>ber there is an eye ſeeing, an eare hearing, a booke writ<g ref="char:EOLhyphen"/>ten: grauely aduiſed, could we make our aduantage of it. Preſume not (I beſeech you) to ſinne with ſecurity, becauſe of ſuppoſed ſecrecy; let no man diſſemble him<g ref="char:EOLhyphen"/>ſelfe out of policy, or ſemble another in hypocriſie: but let vs ſtriue vnfeinedly to approue our ſelues vnto God by walking vprightly before him; make ſearch into the Labyrinths of our ſelfe-deceiuing hearts; finde out thoſe vgly monſters that are lurking within, to deſtroy vs; forget not that ſacred diſcerning ſpirit, from which there is no withdrawing: but amidſt the greateſt pri<g ref="char:EOLhyphen"/>uacy <note place="margin">
+                  <hi>a</hi> Pſal. 139. 6.</note> that feare to it ſelfe can imagine: I ſay, in the clo<g ref="char:EOLhyphen"/>ſeſt cloſets, the darkeſt groues, the blackeſt nights, and faireſt opportunities, repell whatſoeuer temptations, and cruſh the very motions of vngodlineſſe with this or the like thought, there's a ſunne ariſing will manifeſt all, and a day of the Lords appointing, when all maskes ſhall bevnpinned, and all diſguiſes taken off; when hearts ſhall ſpeake, and tongues ſhall hold their peace.</p>
+            <p>One Vſe more before I leaue it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>4</label> Is there a day for Reuelation of abſtruſeſt ſecrecies? Let it ſerue to aduiſe vs in the caſe of raſh iudgement, <note place="margin">In the caſe of raſh iudge<g ref="char:EOLhyphen"/>ment, 1 Paſſiuely to neglect it.</note> paſſiuely to neglect it, actiuely to forbeare it. For,</p>
+            <p n="1">1. Doth all thy righteouſneſſe and integrity paſſe vnobſerued? and is the world vnable to diſcerne thy ſpirituall eſtate? doth zeale goe for madneſſe, piety for hypocriſie, and charity for vaine oſtentation? Well, yet (with the bleſſed Apoſtle) <note n="b" place="margin">1 Cor. 4. 3.</note> reckon not to be iudged of mans iudgement; yeeld not, to ſlacke the feruour of thy zeale: grow not into a wearineſſe of thy former profeſſion, but remember how we muſt all ere long be manifeſted in our realties and natiue colours [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] 2 <hi>Cor.</hi> 5. as much as in <hi>Theodorets</hi> gloſſe to be made tranſ<g ref="char:EOLhyphen"/>parent and cleare as Chriſtall: in the day when an vn<g ref="char:EOLhyphen"/>guilefull <hi>Iſraelite</hi> ſhall not faile of a Teſtimoniall, but be openly honoured with the witneſſe and praiſe of God:
+<pb n="34" facs="tcp:177907:20"/> yea, and rather then faile, <hi>ex ore tuo ſerue nequam</hi> (by the dolefull recantation of the vngodly.) <note n="c" place="margin">W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 5 3, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 5.</note> This was hee whom we ſometime had in deriſion, and a prouerbe of reproach: we fooles counted his life madneſſe, and his end to be without honour: how is he numbred among the children of God, and his lot is among the Saints?</p>
+            <q>
+               <l>That for cenſures paſſed vpon our ſelues.</l>
+               <l>Next for ours concerning others. For,</l>
+            </q>
+            <p n="2">2. Is the opening of all manner ſecrets put ouer to the <note place="margin">2 Actiuely to fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> it.</note> laſt day? Let it teach vs in all things to be patiently ig<g ref="char:EOLhyphen"/>norant where wee cannot infallibly iudge. In vſe of things indifferent, and in carriages of a doubtfull inter<g ref="char:EOLhyphen"/>pretation, <hi>non reprehendamus ca quae neſcimus quo animo fiant</hi> 
+               <note n="a" place="margin">Auguſt.</note>: neuer condemne the man, where we know not his meaning. 'Tis for itching cenſorious obſeruers to be peremptory and Pope-like in their definitions: tis for them to hold a Dictatourſhip ouer the ſoules and con<g ref="char:EOLhyphen"/>ſciences of their brethren: <hi>Non ſic didicimus Christum. If I will that he tarry till I come, what is that to thee? follow thou mee</hi> 
+               <note n="b" place="margin">Ioh. 31. 22.</note>. <hi>Conſcientiae latebras nudare</hi> (ſaith <hi>Auſtin,) ho<g ref="char:EOLhyphen"/>minibus hand permiſſum.</hi> Encroach not then vpon Gods prerogatiue royall; iudge nothing before the time <note n="c" place="margin">1 Cor. 4. 5.</note>; in<g ref="char:EOLhyphen"/>curre not the condemnation of [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note n="d" place="margin">1 Pet. 4. 15.</note>.] Bi<g ref="char:EOLhyphen"/>ſhops in anothers Dioceſſe. For what, haue we not hearts to examine of our owne? is it for want of ſecrets in our ſelues? Call out our houſes where we haue liued, our Chambers where we haue lodged: Summon the ſeates where we haue ſat, and the pillowes where we haue reſted: aske the fields and the gardens, and the wals, and the hedges, where we haue often walked, and what fearefull teſtimonies of vnſanctified reſeruations would not euery one of theſe produce againſt vs? Wher<g ref="char:EOLhyphen"/>fore (vaine Man) ſtand aloofe with the poore deiected Publican <note n="e" place="margin">Luk. 18. 13.</note>, and take vp the words of the <hi>Pſalmiſt; Lord who knoweth how oft he offendeth? cleanſe thou me from my ſecret faults</hi> 
+               <note n="f" place="margin">Pſal<g ref="char:punc">▪</g> 19. 12.</note>. Thus if we would needs be Iudges, let vs
+<pb n="35" facs="tcp:177907:20"/> ſit at home in diſcuſſion of our own wayes: and as touch<g ref="char:EOLhyphen"/>ing the ſecrets of others, exceede not the rule of charity. They ſtand or fall to their owne Maſter <note n="g" place="margin">Rom. 14. 4.</note>: of whoſe ſe<g ref="char:EOLhyphen"/>cond appearance (as the <hi>Samaritan</hi> woman of his firſt) ſay, <hi>When the Meſſias is come, hee will tell vs all things</hi> 
+               <note n="h" place="margin">Ioh. 4. 25.</note>. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (in the expreſſion of our Apoſtle) <hi>hee will bring to light the hidden things of darkeneſſe, and make apparant the counſels of the hearts</hi> 
+               <note n="i" place="margin">1 Cor 4. 5.</note>.</p>
+            <p>And thus much for the fourth part, the Iudiciall reſer<g ref="char:EOLhyphen"/>ued cauſes: <hi>occulta hominum:</hi> the ſecrets of men.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label> The perſon deputed comes next to be conſidered; and that is <hi>Ieſus Chriſt.</hi> He is the immediate manager and adminiſtratour of the Iudgement; <hi>All things were made by him</hi> 
+               <note n="k" place="margin">Ioh 1. 3. 1 <hi>Trem. per manum Ieſ<g ref="char:EOLhyphen"/>chua Chriſti.</hi>
+               </note>, <hi>and by him ſhall all be iudged, Act.</hi> 17. 31. <hi>by that man whom God hath ordained.</hi> For,</p>
+            <p>Firſt, though it belong to the whole Trinity in point of Iudiciary power, (which the Father communicates to the Sonne, <hi>generando, non largiendo</hi> 
+               <note n="a" place="margin">Ambroſ.</note>: by eternall ge<g ref="char:EOLhyphen"/>neration, and not by donation in time) yet take it in re<g ref="char:EOLhyphen"/>gard of the viſible act, the Iudicature is Chriſts after a <note place="margin">
+                  <hi>b</hi> Dan. 7. 9. 13. <hi>Prop in Senten.</hi> 337. <hi>Aug. tract.</hi> 19. <hi>in Ioh.</hi>
+               </note> ſpeciall manner: For he onely ſhall be ſeene to deſcend with a guard of Angels, to open the booke of accounts, to examine the ſeuerall cauſes, to pronounce the finall ſentence; it being altogether meet in the wiſedome of God that man by man ſhould be tried and iudged: that like as in reſpect of his Sonſhip, hee is iudge <hi>Coauthori<g ref="char:EOLhyphen"/>tatiuè,</hi> by a common vndiuided power: So <hi>Subauthori<g ref="char:EOLhyphen"/>tatiuè,</hi> in regard of his Mediatourſhip, and by peculiar deputation,</p>
+            <p>Secondly, how euer the twelue Apoſtles be to iudge the twelue Tribes of Iſrael <note n="c" place="margin">Luk. 22. 30.</note>; no feare of a riualſhip and competition with Chriſt: it being chiefly meant (if not ſolely) in reſpect of their Goſpell, which ſhall ſerue to conuince or to cleare them. Yea, and</p>
+            <p>Thirdly, Whereas all the Saints be to iudge euill An<g ref="char:EOLhyphen"/>gels and Men <note n="d" place="margin">1 Cor 6. verſ. 2. 3.</note>, 'tis onely as attendant Iuſtices on the Bench, <hi>Testimonio, Exemplo, Suffragio;</hi> by Teſtimony,
+<pb n="36" facs="tcp:177907:21"/> Example <note n="e" place="margin">So alſo the Niniuites, and the Queene of the South. Mat. 12. 41, 42</note>, approbation; <hi>Membrorumiure</hi> (at moſt) by Communion with Chriſt their head; there lies <hi>plenitudo potestatis:</hi> the fulneſſe of Iudiciary power, it being alto<g ref="char:EOLhyphen"/>gether congruous, that the heire of his Fathers glory ſhould be ſole in the ſwaying of his Fathers Scepter.</p>
+            <list>
+               <item>Where it wil not be amiſſe to conſider his
+<list>
+                     <item>Commiſſion.</item>
+                     <item>Qualification</item>
+                  </list>
+               </item>
+            </list>
+            <p>The one to proue him a lawfull: the other a ſufficient Iudge.</p>
+            <p n="1">1. For his Commiſſion, <hi>The Father iudgeth no man,</hi> 
+               <note place="margin">1 Chriſt is a lawful Iudge.</note> 
+               <hi>Ioh.</hi> 5. 22. <hi>but hath committed</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>all iudgement vn<g ref="char:EOLhyphen"/>to the Sonne;</hi> Yea, <hi>and he hath giuen him Authority;</hi> verſ. 27. <hi>to execute iudgement becauſe he is the Sonne of man.</hi> A plaine Commiſſion, if we ſticke not at the reaſon; what, there<g ref="char:EOLhyphen"/>fore <hi>Quia filius hominis?</hi> Yes, and vpon very good rea<g ref="char:EOLhyphen"/>ſon, if that of Saint <hi>Auſtin</hi> may ſtand: <hi>Humilitas clarita<g ref="char:EOLhyphen"/>tis meritum, claritas humilitatis praemium.</hi> Hee humbled himſelfe in the forme of a Seruant <note n="a" place="margin">Phil. 2.</note>, and God hath exal<g ref="char:EOLhyphen"/>ted him to the honour of a Iudge. Or (as others) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note n="b" place="margin">Pelarg. in lo<g ref="char:EOLhyphen"/>cum.</note>: It was by and according to his Humane Nature.</p>
+            <p>For firſt the Father of mercies (ſaith <hi>Bernard</hi> 
+               <note n="c" place="margin">
+                  <hi>Ser.</hi> 73. <hi>in Cant.</hi>
+               </note>) will haue iudged <hi>per hominem homines,</hi> that while the wicked tremble and are full of perplexity, the ſimili<g ref="char:EOLhyphen"/>tude<g ref="char:punc">▪</g> of Nature may make the Elect confident.</p>
+            <p>Secondly, 'tis as much to Saint <hi>Cyril,</hi> as <hi>in quan<g ref="char:EOLhyphen"/>tum homo factus est</hi> 
+               <note n="d" place="margin">
+                  <hi>Lib.</hi> 2. <hi>Cap.</hi> 140.</note>: Not ſo much Cauſally, for his Manhood, as formally, according to it: <hi>Vt intelliga<g ref="char:EOLhyphen"/>mus omnia ſibi data eſſe vt homini</hi> 
+               <note n="e" place="margin">
+                  <hi>Cap.</hi> 144.</note>: to teach vs (ſaith he) that as according to his Deity hee hath this power natu<g ref="char:EOLhyphen"/>rally: ſo according to his Humanity 'twas giuen him. That's his Commiſſion then.</p>
+            <p n="2">2. And for his Qualification, he is in nothing <note place="margin">2 An abſolute Iudge for</note> defectiue that ſhould make an accompliſht Iudge. The <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Wiſedome.</note>
+            </p>
+            <p n="1">1. And maine thing required in ſuch a perſon, is Wiſedome, the Salt of Science, to vnderſtand and
+<pb n="37" facs="tcp:177907:21"/> know the Law: For, <hi>Ignorantia Iudicis calamitas eſt innocentis</hi> 
+               <note n="f" place="margin">Auguſt.</note>; Downe goes the party innocent, where the Iudge is to ſeeke for knowledge. O but Ieſus Chriſt is the eternall Wiſedome <note n="g" place="margin">Prou. 8. 22.</note> and Word <note n="h" place="margin">Ioh. 1. 1.</note> of his Father; a diſcerner of Spirits; a reuealer of ſecret in<g ref="char:EOLhyphen"/>tentions: <hi>In whom</hi> (as the Apoſtle ſpeakes) <hi>are hidde all the Treaſures of Wiſedome and Knowledge</hi> 
+               <note n="i" place="margin">Col. 2. 3.</note>. The</p>
+            <p n="2">2. Is Iuſtice, the Salt of Conſcience, impartially <note place="margin">2. Iuſtice.</note> to determine Cauſes; for (according to the ancient rule) <hi>Tamdiu Iudex dicitur, quamdiu &amp; iuſtus puta<g ref="char:EOLhyphen"/>tur</hi> 
+               <note n="k" place="margin">
+                  <hi>Caſſiod.</hi> Compare Gen. 18. 25. with Rom. 3. 5, 6.</note>. No longer Iudge than iuſt. Which if wee examine in Chriſt, A Scepter of Righteouſneſſe is the Scepter of his Kingdome, <hi>Hebr.</hi> 1. 8. No exorbi<g ref="char:EOLhyphen"/>tancy of affection, no acceptation of perſons in pro<g ref="char:EOLhyphen"/>ceedings at his Tribunall; <hi>For behold, my reward is with mee, to giue euery man according as his worke ſhall bee</hi> 
+               <note n="l" place="margin">Apoc. 22. 12. 3. Courage.</note>.</p>
+            <p n="3">3. A Iudge muſt haue Courage and vndaunted<g ref="char:EOLhyphen"/>neſſe of Spirit, that Iuſtice may receiue no affront: Hee muſt not feare the face of man, becauſe the iudge<g ref="char:EOLhyphen"/>ment is Gods <note n="m" place="margin">Deut. 1. 17.</note>, And accordingly Ieſus Chriſt is for Maieſty and preſence, the Lyon of the Tribe of <hi>Iudah</hi> 
+               <note n="a" place="margin">Apoc. 5. 5.</note>. <hi>The hand of God is vpon the man of his right hand, and vpon the Sonne of man whom hee hath made ſo ſtrong for his owne ſelfe</hi> 
+               <note n="b" place="margin">
+                  <hi>Accommoda<g ref="char:EOLhyphen"/>titiè a pſal.</hi> 80. 17.</note>.</p>
+            <p n="4">4. And ſuch a Commiſſioner muſt be conſtant in his <note place="margin">4. Conſtancy</note> warrantable Decrees; not ſtarting aſide like a broken bow; not guilty of an <hi>Aliud ſtans, aliud ſedens.</hi> O but <hi>Ieſus Chriſt is yeſterday, and to day, and the ſame for euer</hi> 
+               <note n="c" place="margin">Heb. 13. 8.</note>; the eternall Sonne of that Father of Lights, with whom is no mutation, neither ſhadow of change <note n="d" place="margin">Iac. 1. 17.</note>. Hath hee ſaid, and ſhall he not doe it? Hath he ſpoken, and ſhall he not make it good?</p>
+            <p>Laſtly, and he muſt haue ſufficiency of power for Ex<g ref="char:EOLhyphen"/>ecution <note place="margin">5. Power.</note> of ſentence giuen; for to ſmall purpoſe doth hee
+<pb n="38" facs="tcp:177907:22"/> iudge the fact, that cannot ſuppreſſe the offender. Yea, but Ieſus Chriſt is that victorious <hi>Michael</hi> 
+               <note n="e" place="margin">Apo. 12. 7. 8.</note>, and the Captaine of the Lords Hoſte <note n="f" place="margin">Ioſh. 5 14.</note>; and hath all the world at his command to effect his Royall pleaſure; Angels are his Miniſters; the Deuils his Slaues; his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: let him but ſay: 'tis done. <hi>Take him and bind him hand and foot, and caſt him into vtter darkneſſe.</hi>
+            </p>
+            <p>And therefore the ſumme is this;</p>
+            <p>Seeing there's nothing behinde for Commiſſion or Qualification, ſeeing the Father hath appointed him, and his Attributes ioyntly commend him; Wiſedome to know, Iuſtice to decide, Courage to reſolue, Conſtan<g ref="char:EOLhyphen"/>cy to vphold, and Power to put in Execution: What <hi>Pilate</hi> ſcoffingly ſaid to the <hi>Iewes, Ecce Rex veſter,</hi> Be<g ref="char:EOLhyphen"/>hold your King <note n="g" place="margin">Ioh. 19. 14.</note>; This Doctrine ſeriouſly proclaymes vnto the world, <hi>Ecce Iudex veſter;</hi> Behold your Iudge.</p>
+            <p>The taske were Catecheticall to enlarge in particu<g ref="char:EOLhyphen"/>lars; as how he ſhall ſummon, and how he ſhall ſeparate, and the manner of his diſcuſſion, with his ſentence and retribution: That laudable reuiued Exerciſe hath (I hope) prepoſſeſt you with thoſe Notions Let me craue your patience for two or three deductions, and there cannot much more remaine.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> 1. Then is the world to be iudged by him who came to redeeme it? and he to returne a Iudge, who dyed to be knowne a Ieſus? <hi>O quantum mutatus ab illo!</hi> Great <note place="margin">To difference his firſt and laſt Appea<g ref="char:EOLhyphen"/>rance. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ioh. 4. 25, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. Phil. 2. 7. 8.</note> difference betwixt his firſt, and the ſtate of his ſecond Appearance. Hee came as a Prophet, to teach and in<g ref="char:EOLhyphen"/>ſtruct <hi rend="sup">a</hi>: he comes as a Iudge, to examine and cenſure. He came as a ſeruant <hi rend="sup">b</hi>, to ſuffer in humility: he comes as a King, to triumph in Maieſty. He came as a Lambe, in meekeneſſe and patience <hi rend="sup">c</hi>: he comes as a Lyon, with <note place="margin">Iſ. 53. 7.</note> fierceneſſe<g ref="char:punc">▪</g> and indignation. Then, <hi>to giue light to them that ſate in darkeneſſe</hi> 
+               <hi rend="sup">d</hi>: Now, to bring darkneſſe on ſuch <note place="margin">Luk. 1. 79.</note> as refuſed light. In a word, he came to deliuer men out of the ſtrong holds of ſinne, with a <hi>Venite ad me omnes</hi> 
+               <hi rend="sup">e</hi>: <note place="margin">Mat. 11. 28.</note> 
+               <hi>Come vnto me all yee that are weary and heauy laden, and I</hi>
+               <pb n="39" facs="tcp:177907:22"/> 
+               <hi>will refreſh you.</hi> And, <hi>God ſent not his Sonne into the world to condemne the world, but that the world through him might be ſaued</hi> 
+               <note n="f" place="margin">Ioh. 3. 17.</note>: whereas hee comes to giue ouer the ſeruants of vnrighteouſneſſe to perpetuall impriſonment in the loweſt hell: <hi>For then ſhall he ſay vnto them on his left hand, Depart from me, ye curſed, into euerlaſting fire, prepared for the Deuill and his Angels</hi> 
+               <note n="g" place="margin">Mat. 25 41.</note>.</p>
+            <p>O thinke vpon the difference 'twixt theſe Appearan<g ref="char:EOLhyphen"/>ces; and recount in your deepeſt meditations, how the heauens ſhall ſhriuell together like a Scroll, and the whole frame of nature be diſſolued and melted with fla<g ref="char:EOLhyphen"/>ming fire; how the great and mighty hills ſhall ſtart out of their places like frighted men, and the great and mighty ſinners ſhall call vpon thoſe hills to fall vpon them; yea, and laſtly, how the crue of vnbeleeuers ſhall wiſh but for one of the dayes of the Sonne of Man, and ſhall not preuaile to ſee it. Vpon ſerious thoughts wher<g ref="char:EOLhyphen"/>of, foreſlow not (I beſeech you) the ſeaſon of Regene<g ref="char:EOLhyphen"/>ration; neglect not the Halcyonian dayes of Chriſt; but as euer you deſire to haue comfort at his laſt, make your aduantage of his firſt comming: Receiue his Ambaſſa<g ref="char:EOLhyphen"/>dours and Meſſengers of peace, obſerue his gracious ex<g ref="char:EOLhyphen"/>ample, repent from dead workes and liue by faith in his name, that ye faile not to meet him as a mercifull Saui<g ref="char:EOLhyphen"/>our in the day when hee comes to iudge. That's the firſt.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> 2. By Ieſus Chriſt? And hath the Father put vs o<g ref="char:EOLhyphen"/>uer to be cenſured by him? O the ſweet Conſolation that might graciouſly releeue vs, if by Faith and a good <note place="margin">To affect vs with comfort and deſire of his returne.</note> Conſcience wee had intereſt in the Iudges fauour! <hi>For there's no Condemnation to them that are in Chriſt Ieſus; no poſſible ſeparation from the loue of God in him</hi> 
+               <note n="h" place="margin">Rom, 8. 1. &amp; ver. 33. 38, 39.</note>. Is it Chriſt that iuſtifieth? <hi>Quis intentabit? Who ſhall lay any thing to the charge of his Choſen?</hi> Hee is our Brother, <hi>Heb.</hi> 2. 11. Our Bridegroome, <hi>Mat.</hi> 9. 15. Our Aduocate, 1 <hi>Ioh.</hi> 2. 1. Our Redemption, 1 <hi>Cor.</hi> 1. 30. Shall we then be affrigh<g ref="char:EOLhyphen"/>ted at the mention of his Appearance? Diſheartned with
+<pb n="40" facs="tcp:177907:23"/> a ſlauiſh degenerous feare? <hi>Vae mihi de dié illo terribili,</hi> ſaith Saint <hi>Chryſoſtome</hi> 
+               <note n="a" place="margin">
+                  <hi>In Mat</hi> 24. <hi>hom.</hi> 77.</note>) Woe is me as concerning that dreadfull day; foraſmuch as when we ought to reioyce at the remembrance of theſe things, wee pine away with griefe and ſorrow. Yea, but let not theſe things be ſo (my brethren) loſe not the benefit of ſuch a comforta<g ref="char:EOLhyphen"/>ble truth; <hi>It is I</hi> (ſaith our Sauiour) <hi>be not affraid</hi> 
+               <note n="b" place="margin">Mat. 14. 27.</note>; The voyce of our Beloued; let not our hearts bee troubled. Onely make him our friend by the bond of Faith and Charity, and then, if our ſinnes bee a diſtraction, the Iudge hath forgiuen vs; Our Corruptions a Moleſtati<g ref="char:EOLhyphen"/>on, he comes to tranſlate vs to the freedome and life of Angels. Inſomuch, as the Hart may bray, and <hi>Dauid</hi> thirſt, and the Saints long, and the Spouſe importune his returne; <hi>Make haſte</hi> (my beloued) <hi>and bee thou like to a Roc or to a young Hart vpon the Mountaines of Spices</hi> 
+               <note n="c" place="margin">Cant. 8. 12.</note>.</p>
+            <p>It was a ſtrange infirmity of the Church in <hi>Tertullians</hi> dayes, when they vſually prayed <hi>pro morâ finis</hi> 
+               <note n="d" place="margin">
+                  <hi>Tertul. in A<g ref="char:EOLhyphen"/>polog. aduerſ. Gent. cap.</hi> 39.</note>, for a protraction of the laſt end; As if they had ſcarce bin ac<g ref="char:EOLhyphen"/>quainted with <hi>adueniat Regnum tuum;</hi> Like Idiots in our owne times, who hope that they ſhall neuer liue to ſee ſuch a terrible day; Not liue to ſee it? Nay, rather feare, thou ſhalt neuer ſee it to liue. Wherefore Chriſti<g ref="char:EOLhyphen"/>ans better principled ſhould giue diligence to make their Calling and Election ſure, to be perſwaded of their Com<g ref="char:EOLhyphen"/>munion with the Sonne of God, and to poſſeſſe their ſoules with this, that hee comes to deliuer vs from a world of temptations, to wipe away all teares from our eyes, to ſolemnize our Marriage, and in full and perfect manner to endow vs with heauen and all happineſſe; In Conſideration whereof, let the Spirit and the Bride ſay, Come, and let him that heareth, ſay Come: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>3</label> 
+               <hi>Euen ſo come Lord Ieſus</hi> 
+               <note n="e" place="margin">Apoc. 22. 20.</note>. <note place="margin">To terrifie the enemies of Chriſt and his ordinan<g ref="char:EOLhyphen"/>ces.</note>
+            </p>
+            <p>Laſtly, ſhall the Iudge be Chriſt? It may be matter of terror to the ſoules of remorſeleſſe ſinners, the contem<g ref="char:EOLhyphen"/>ners of his ſacred ordinances, and as <hi>Ezekiels</hi> roule wher<g ref="char:EOLhyphen"/>in was written, <hi>Lamentations, and mourning, and Woe</hi> 
+               <note n="f" place="margin">Ezek. 2. 9, 10</note>.
+<pb n="41" facs="tcp:177907:23"/> For how dreadfully ſhall it confound the Malicious Iewes to behold in the place of Iudgement whom they crucified? How ſtrangely ſhall it affright and aſtoniſh vniuſt <hi>Pilate,</hi> to behold the Supreme Iudge whom hee condemned? How fearefully ſhall it diſcountenance and quell thoſe barbarous ſouldiers, to behold the Lord of glory whom they pierced? Nay, if in the time of his Hu<g ref="char:EOLhyphen"/>miliation, hee ouerturned ſo many armed Champions with <hi>Ego ſum,</hi> I am he; <hi>Quid faciet iudicaturus, qui iudi<g ref="char:EOLhyphen"/>candus hoc fecit</hi> 
+               <note n="a" place="margin">Auguſt.</note>? What ſhall he doe when hee comes to iudge, who did this when he went to be iudged? What a diſmal ouerthrow ſhall the voice of his Maieſty make, when hee ſhall ſay vnto damned Reprobates, as once to the vngracious Iewes, <hi>Ego ſum:</hi> I am he. <hi>Ecce hominem quem crucifixiſtis:</hi> Behold the man whom yee crucified. <hi>Ecce vulnera quae infixiſtis:</hi> Behold the wounds which yee imprinted. <hi>Ecce latus quod pupugiſtis:</hi> Behold the ſide which yee pierced. <hi>For euery eye ſhall ſee him, and they alſo which pierced him, Reu.</hi> 1. 7. Now if <hi>Ioſephs</hi> brethren were perplexed at his preſence, btcauſe they had formerly ſold him <note n="b" place="margin">
+                  <hi>Gen.</hi> 45. 3, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note>, what a world of perturbation may they iuſtly expect, that exchange their Chriſt for the worlds vani<g ref="char:EOLhyphen"/>ty? What ſhall the trayterous <hi>Iudas</hi> doe, that ſells him for pieces of ſiluer? What ſhall the ſuborned Accuſer doe, that leads him to be condemned? What ſhall the Glutton and Drunkard doe, that frets him with gall and vinegar? What ſhall the blaſphemous ſwearer doe, that pierceth him with outragious oathes? And laſtly, what ſhall the vnmercifull oppreſſor doe, that crucifies him in his poore members? O the cryes, and lamentations, and rufull complaints that ſhall then bee flying through the vaſtneſſe of a diſſoluing world! What confuſion for the loſſe of a Sauiour, and the wilfull prouokements of a ſe<g ref="char:EOLhyphen"/>uere Iudge! In the day when the Kings of the earth, and the great men, and the rich men, and the chiefe Captains, and the mighty men, and euery bondman, and euery free<g ref="char:EOLhyphen"/>man ſhall hide themſelues in the dennes, and in the rocks
+<pb n="42" facs="tcp:177907:24"/> of the mountaines, and ſay to the mountaines and rocks, <hi>Fall on vs, and hide vs from the face of him that ſitteth vpon the Throne, and from the wrath of the Lambe</hi> 
+               <note n="c" place="margin">Apo. 6. 15. 16</note>.</p>
+            <p>Men and brethren here aſſembled, I cannot beleeue, but that the thoughts of ſuch amazing terrors haue long agoe prepared ſome ſoules among you, and ſeaſoned you for the kingdome of heauen. And for you that with be<g ref="char:EOLhyphen"/>nummed conſciences proceed in the wayes of ſinne, oh that my words were powerfull to the rending of your flinty hearts, and of vertue like <hi>Moſes</hi> his Rod <note n="a" place="margin">Exod. 17. 5, 6</note>, to fetch water out of the hardeſt Rocke! Either now or neuer beſtirre you about the meanes of grace; and beginne to bethinke your ſelues: <hi>Quid faciemus?</hi> What ſhall wee doe to be ſaued? Yee haue yet the offer of Saluation in Chriſt Ieſus, and as yet he deferres the execution of the Iudgement, and during the accepted time, <hi>Behold the Lambe of God, which taketh away the ſinne of the world.</hi> Whereas, if with diſgracefull neglect yee ſpurne at ſo great Saluation, if ye will not admit the ſonne of man to raigne ouer you, but deſpiſe his Doctrines, doings, faſtings, prayings, bleedings, gronings: I muſt referre you with ſorrow, from the Croſſe of a Mediatour, to the dreadfull Throne of an auenging Iudge. <hi>Durus Sermo,</hi> (I weene) to as many as are croſſe with God. And ſhall our Sunne thus ſet in a Cloud? The miſtake is too ordi<g ref="char:EOLhyphen"/>nary for menaces of Iudgement to be confounded with Legall auſterities. But let the Remaines excuſe me vpon the warrant of Confirmation, 'tis <hi>Secundum Euangelium meum: according to my Goſpell.</hi> That will be all. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <label type="milestone">
+                  <seg type="milestoneunit">Expoſ. </seg>1</label> Some would haue to inti<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Nor<g ref="char:EOLhyphen"/>ma</hi> and rule of the laſt Iudgement <note n="b" place="margin">Bucan. Scharp.</note>. And I deny not but in the ſentence of Abſolution it ſhall: No ruſe but the Go<g ref="char:EOLhyphen"/>ſpell for beſtowing of life; as no Inſtrument but faith to apprehend it.</p>
+            <p>The like alſo for ſome in the ſentence of condemnati<g ref="char:EOLhyphen"/>on, according to that of our Sauiour: <hi>Hee that retecteth mee, and receiueth not my words:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the ſelfe<g ref="char:EOLhyphen"/>ſame</hi>
+               <pb n="43" facs="tcp:177907:24"/> 
+               <hi>word that<g ref="char:punc">▪</g> I haue ſpoken, ſhall iudge him in the laſt day</hi> 
+               <note n="c" place="margin">Ioh. 12. 48.</note>.</p>
+            <p>A ſenſe that cannot be refuſed, ſo far as it may extend. Shall a Miniſter of the Goſpell in a lewd Congregation conceit, after all his paines, that he hath beaten the ayre? or a formall Auditor, hauing ſate out a Sermon, that hee ſhall heare no further of it? Let me tell you in the name of the Lord, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that word which now you heare, deny it entertainment, it ſhall ſerue to iudge you at laſt. Thus farre it holds then; but—</p>
+            <p>
+               <hi>Non omnibus datum eſt:</hi> all haue not attained to heare the Goſpell. A great part of the world neuer heard of the Written Law. If as many as haue ſinned without the Law, ſhall without it alſo periſh <note n="a" place="margin">Rom. 2. 12.</note>: the ſequell is cleare, that ſinners without the Goſpell, ſhall not be tryed by it. And conſequently, <hi>Secundum Euangelium</hi> makes nothing for an abſolute Rule.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Expoſ. </seg>2</label> Wherefore, others would rather haue it in a reference to Ieſus Chriſt; and the meaning thereupon to be, that as <hi>Paul</hi> had preach'd him for Iudge of quicke and dead: ſo according to this Goſpell the Iudgement ſhould be hold<g ref="char:EOLhyphen"/>den by him <note n="b" place="margin">Prouocat ad Euangelium, non v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>doceat ſecundum quid Deus ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iudi<g ref="char:EOLhyphen"/>caturus, ſed per quam, nempe Mediatorem, &amp;c. Par, in loc.</note>. And indeed the Morall Law, howſoeuer it threatens a Iudgement, yet ſpeakes not a word of a Mediatour to manage it: giues not the leaſt inkling of the man Chriſt Ieſus. That's <hi>extra Cancellos,</hi> without the rayles and liſts of the Law; peculiar to the tongues of Euangelicall Prophets and appropriate to the pens of Propheticall Euangeliſts; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: according to the Goſpell. But—</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Expoſ. </seg>3</label> Be the reference what it may, I thinke their gloſſe the beſt, who conceiue the Goſpell to bee the euidence andwarrant, <hi>Nuncium ac praeconium</hi> (as <hi>Caluin</hi> vpon the words) The tidings (in part) and proclamation of the future Iudgement. As if the Apoſtle had ſaid, There ſhall be a day, when God ſhall iudge by Chriſt, <hi>Sicut teſta<g ref="char:EOLhyphen"/>tur Doctrina haec, cuius ego ſum praeco conſtitutus</hi> 
+               <note n="c" place="margin">Annot. bren. in loc.</note>: As wit<g ref="char:EOLhyphen"/>neſſeth this Doctrine, whereof I am made a Preacher:
+<pb n="44" facs="tcp:177907:25"/> Or (as <hi>Theophilact</hi> to the ſame purpoſe) <hi>Secundum quod de die Iudicij Euangelizare &amp; docere ſoleo.</hi>
+            </p>
+            <p>Not a Goſpell then that ſhould make him a fifth E<g ref="char:EOLhyphen"/>uangeliſt (as ſome Heretiks would haue gul'd the world <note n="d" place="margin">
+                  <hi>De quibus Ambr. in Luc. in Prooem</hi> [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>]</note>, Nor a Scripture to be diſtinguiſhed from the Goſpell of Chriſt (notwithſtanding the Pronoune annexed) for <hi>Pauls</hi> Goſpell is Gods Goſpell, <hi>Rom.</hi> 1. 1. thy word, and their word (as our Sauiour in the 17. of <hi>Iohn)</hi> theirs by diſpenſation, thine for reuelation: ſo Chriſts original<g ref="char:EOLhyphen"/>ly, <hi>Pauls</hi> Miniſterially <note n="e" place="margin">Chriſti vt Au<g ref="char:EOLhyphen"/>tb<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is, Apoſtoli vt praedicatoris. Lyra.</note>. <hi>Accepi à domino,</hi> 1 <hi>Cor.</hi> 11. <hi>Paul.</hi> receiues it from God, and ſo deliuers it to the Church. But I remember where I ſpeake, and would God (with <hi>Moſes)</hi> that all the Lords people were Prophets <note n="f" place="margin">
+                  <hi>Num.</hi> 11. 29.</note>. Let the point of obſeruation be this:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> That the Article of the generall Iudgement is no leſſe then a part of the Goſpell.</p>
+            <p>It is one of the preferments of the Goſpell aboue the Law in the 12. to the <hi>Hebrewes</hi> 
+               <note n="g" place="margin">From <hi>v.</hi> 18. to the 13.</note>, that inſtead of acceſſe vnto the Mount that might be touched, vnto blackneſſe, and darkneſſe, and tempeſt. The beleeuing <hi>Iewes</hi> were come vnto Mount Sion, and to God the Iudge of all. A ſtrange Paradoxe in the opinion of the world. Can God the Iudge of all, be the ſubiect of the couenant of Grace? or the Goſpell, his Mercy-ſeate be reconciled with the Tribunall of Iuſtice?</p>
+            <p>Indeede the Pontificians glory in it, and thinke their concluſion impregnable, that the merit of Workes, and the doctrine of Grace may very well ſtand together <note n="a" place="margin">Cornel. a lap. in loe.</note>. But to anſwer them in the words of Pope <hi>Gregory; Aliud eſt ſecundum opera reddere, aliud propter ipſa</hi> 
+               <note n="b" place="margin">In Pſal. <hi>pae<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en.</hi> 7.</note>. Its one thing to render according to our workes, another for the wor<g ref="char:EOLhyphen"/>thineſſe of them. The former (we grant) is both Mercy and Iuſtice, though in a ſenſe little helpefull to them: Mercy in crowning thoſe poore performances which haue no condignity <note n="c" place="margin">Rom. 8. 18.</note> with the reward: and Iuſtice in ac<g ref="char:EOLhyphen"/>compliſhing thoſe gracious Promiſes <note n="d" place="margin">Compare Heb. 10. 23. with 1 Joh. 1. 9</note>, which were
+<pb n="45" facs="tcp:177907:25"/> made in the Lord our righteouſneſſe <note n="e" place="margin">Ier. 23. 6.</note>: But then, if we ſpeake of the latter, no Mercy, but Iuſtice, <hi>propter opera;</hi> for the value and merit of our works: and if God ſhould deale with vs ſo, no iuſtice but punitiue: for what place (ſaith that Father <note n="f" place="margin">
+                  <hi>Mor. lib.</hi> 35. <hi>cap.</hi> 16.</note>) is there left for ſaluation, when as our euill doings are meerely euill; but the good things, which we beleeue we haue, cannot be purely good? <hi>Non eſt quo gratia intret</hi> (ſaith <hi>Bernard</hi> 
+               <note n="g" place="margin">
+                  <hi>Super Cant. Serm.</hi> 67.</note>) <hi>vbi iam meritum occu<g ref="char:EOLhyphen"/>pauit:</hi> No roome for the grace of God, where intruſion hath bin made by mans merit. They are ſtrongly oppo<g ref="char:EOLhyphen"/>ſed, <hi>Rom.</hi> 11. 6. <hi>If by grace, then no more of workes; of of works, it is no more grace.</hi> I conclude this digreſſion with that ſpeech of <hi>Proſper,</hi> 
+               <note n="h" place="margin">
+                  <hi>Lib.</hi> 1. <hi>de vo<g ref="char:EOLhyphen"/>cat, Gent. ca.</hi> 5.</note> 
+               <hi>Nulla poſſunt tam praeclara opera exi<g ref="char:EOLhyphen"/>ſtere, &amp;c.</hi> There can be no good workes of that excellen<g ref="char:EOLhyphen"/>cy and dignity, as may challenge by the iudgement of retribution, what onely commeth by free gift; and con<g ref="char:EOLhyphen"/>ſequently Iudgement and Goſpell are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in this reſpect.</p>
+            <p>In this (I ſay) incompatible, though without any pre<g ref="char:EOLhyphen"/>iudice to the maine: For, </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> 1. If that be Goſpell, which informes vs of the per<g ref="char:EOLhyphen"/>ſon of Chriſt, explaines his Kingly function, and the pre<g ref="char:EOLhyphen"/>cious fruits of his Mediation: This Doctrine of the generall Iudgement cannot be leſſe, while it clearely pre<g ref="char:EOLhyphen"/>ſents before vs God and man in one perſon <note n="a" place="margin">Ioh. 5. 22. 27</note>, exalted vp<g ref="char:EOLhyphen"/>on the throne of his Maieſty <note n="b" place="margin">Mat. 25. 31.</note>, to conſummate the bea<g ref="char:EOLhyphen"/>titude of all his choſen <note n="c" place="margin">Heb. 9. 28.</note>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> Secondly, If that be Goſpell, <hi>Quod annunciat nobis res faustas</hi> 
+               <note n="d" place="margin">Theophyl.</note>: that comforts the languiſhing ſpouſe, and tels her of a glorious redemption. Behold in the Ar<g ref="char:EOLhyphen"/>ticle of the Iudgement, the very ſeaſon of refreſhing from the preſence of God <note n="e" place="margin">Act. 3. 19.</note>, the expectation of the Saints <note n="f" place="margin">Phil. 3. 20.</note>, and reſtitution of all things <note n="g" place="margin">Act. 3. 21.</note>. A day of Mercy for ſuch as <hi>Oneſiphorus</hi> 
+               <note n="h" place="margin">2 Tim. 1. 18</note>, a ground of comfort for ſuch as the <hi>Theſſalonians</hi> 
+               <note n="i" place="margin">1 Theſ. 4, 18</note>, a crowne of righteouſneſſe for ſuch as Saint <hi>Paul</hi> 
+               <note n="k" place="margin">2 Tim. 4. 8.</note>, which the Lord the righteous ſhall Iudge giue vnto them that loue his appearing.</p>
+            <pb n="46" facs="tcp:177907:26"/>
+            <p> Thirdly and laſtly, if that be Goſpell, which cals for Euangelicall duties, for Faith and Repentance, and the practice of Sanctification: behold the Iudiciary returne of our Sauiour, perſwading vs to liue by Faith <note n="l" place="margin">Heb. 15. 37, 38.</note>, to repent <note n="m" place="margin">Act. 17. 30, 31.</note> and renounce our ſinnes, and to haue our con<g ref="char:EOLhyphen"/>uerſation in heauen <note n="n" place="margin">Phil. 3. 20.</note>. That (a little to vary his ſpeech) <note n="o" place="margin">D<hi rend="sup">r</hi> 
+                  <hi>Whitaker Aut boc, &amp;c.</hi>
+               </note> 
+               <hi>Si hoc non eſt Euangelium, neque no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſumus Euangelici.</hi> They are as blinde as <hi>Sodomites,</hi> that diſcerne not Goſpell in theſe: and ſuch as may iuſtly be feared, they neuer felt the Goſpels power.</p>
+            <p>Tell me then, ye that hearken after Mercy and Peace, and diſreliſh the explanation of this Article of our Faith: <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> 
+               <note place="margin">For anſwer to the excepti<g ref="char:EOLhyphen"/>ons of ſelfe<g ref="char:EOLhyphen"/>fauouring Hearers.</note> Haue ye appealed vnto the Goſpell? To the Goſpell ye ſhall goe. In the words of our bleſſed Apoſtle, <hi>Non pudet me Euangelij Christi</hi> 
+               <note n="p" place="margin">Rom. 1. 16.</note>. Farre be it from the Heralds and Proclaimers of theſe tydings to be moued with the cen<g ref="char:EOLhyphen"/>ſures of the world. Let the roaring Sonnes of <hi>Belial</hi> make ſongs of vs at their iouiall comporations, brand vs for vnmercifull Doctors of deſpaire: let the guilty conſci<g ref="char:EOLhyphen"/>ence goe trembling away with <hi>Foelix</hi> 
+               <note n="q" place="margin">Act. 24. 45.</note>, (ſuch an aguiſh fit may peraduenture turne to good.) At worſt, what matters it, ſo long as to the friends of God we come as ſo many Doues with our Oliue-branches. No rarity for a full ſurcharged body to be Sea-ſicke: for a ſinfull di<g ref="char:EOLhyphen"/>ſtempered ſoule to be Sermon-ſicke: with ill-diſpoſed Palates the ſweeteſt Potions haue a bitter taſte; and ſo with diſ-affected ſoules, <hi>Euangeliciſſimae conciones</hi> 
+               <hi rend="sup">a</hi>: the very quinteſſence of the Goſpell is the ſauour of death <note place="margin">As the Apoc. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſtiled by <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ullinger, E<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>angeliciſſimus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ber.</hi>
+               </note> vnto condemnation. The Trumpet which ſounds in an Armie, <hi>formidoloſi militis mentem deijcit:</hi> diſliueneth the heart of a cowardly ſouldier: while it enflames the va<g ref="char:EOLhyphen"/>liant ſpirit with greater courage: ſo the Prieſtly trum<g ref="char:EOLhyphen"/>pet in an Auditory, deiects the ſoule of an impenitent ſinner, <hi>animos viri ſancti corroborat:</hi> confirmes and ſtrengthens the reſolutions of a holy man <hi rend="sup">b</hi>: Great dif<g ref="char:EOLhyphen"/>ference then twixt the natiue intention, and the croſſe <note place="margin">
+                  <hi>Aug. de temp. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi> 106.</note> accidentall Iſſue. The doctrine of the iudgement is of
+<pb n="47" facs="tcp:177907:26"/> it ſelfe life <hi>Ahimaaz</hi> 
+               <note n="c" place="margin">2 Sam. 18. 27</note>, a good man, and commeth with good tydings: and where-euer it failes of an anſwerable apprehenſion: <hi>If our Gospell be hid, it is hid vnto them that are loſt</hi> 
+               <note n="d" place="margin">2 Cor. 4. 3.</note>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Let me cloſe with you (my Brethren) of whom I am perſwaded better. It was <hi>Sampſons</hi> Riddle in the foure<g ref="char:EOLhyphen"/>teenth <note place="margin">To be moued vpon this do<g ref="char:EOLhyphen"/>ctrine with E<g ref="char:EOLhyphen"/>uangelicall affections.</note> of <hi>Iudges; Ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edente prodijt edulium: Out of the Eater came meate, out of the ſtrong came ſweet.</hi> Haue you heard of the Lyon of the Tribe of <hi>Iudah,</hi> of the ſtrong and immortall God? that his Iudgement ſhall one day deuoure, and his ſtrength confound the vngodly? O la<g ref="char:EOLhyphen"/>bour to make your aduantage of it, to finde meate within this eater; to extract hony out of this ſtrong, and to re<g ref="char:EOLhyphen"/>lieue your ſoules with the ſweeteſt conſolations that by faith are hence deriueable. Let graceleſſe ſinners em<g ref="char:EOLhyphen"/>plunge themſelues vpon it into a gulfe of deſpaire: <hi>Ecce Euangeliz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vobis:</hi> to you that walke worthy of Chriſt, the gladſome tydings of the happieſt day that euer time conceiued: of an euerlaſting Iubilee: of a marriage <note n="a" place="margin">Apoc. 19. 7.</note>, a coronation <note n="b" place="margin">1 Pet. 5. 4.</note>: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, vnſpeakeable words: ſuch as is not poſſible for a man to vtter. <hi>Acquiri poteſt</hi> (ſaith <hi>Auſtin) aeſtimari non poteſt foelicitas istius dici.</hi> Well may we come to enioy, neuer can wee perfectly eſtimate the happineſſe of that day: when the enemies of God and his Church ſhall be clad with diſhonour and euerlaſting ſhame <note n="c" place="margin">Dan. 12. 2.</note>, and the Bridegroome with his prepared ſpouſe <note n="d" place="margin">Apoc. 21. 2.</note> ſhall appeare in triumph and perfect glory <note n="e" place="margin">Mat. 25. 31, 33.</note>, and an e<g ref="char:EOLhyphen"/>uerlaſting period be at once impoſed to ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, and to time <note n="f" place="margin">Apoc. 10. 6.</note>, to teares and to death <note n="g" place="margin">Cap. 21. 4.</note>: when the ſoules vnder the altar ſhall cry no more <note n="h" place="margin">Cap. 6. 10.</note>, <hi>Vſque quo Domine? Lord, how long?</hi> But <hi>Lord, now letteſt thou thy ſeruant depart in peace</hi> 
+               <note n="i" place="margin">Luk. 2. 29.</note>, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>according to thy word:</hi> and now awakeneſt thou thy loue to the reſurrection of life, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>according to my Goſpell.</hi> To ſay no more; If there be any comfort and conſolation of the ſpirit, any faith in the Lord Ieſus, any peace with the
+<pb n="48" facs="tcp:177907:27"/> Father; peace of conſcience, deſire and hope of hea<g ref="char:EOLhyphen"/>uen: Let him that hath an eare, heare, and let him that hath heard, conſider; returne an Eccho of deuotion to theſe heauenly tydings; expecting with patience the conſummation of his hope, <hi>In the day when God ſhall iudge the ſecrets of men by Ieſus Chriſt, accor<g ref="char:EOLhyphen"/>ding to my Gospell.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177907:27"/>
+         </div>
+      </body>
+   </text>
+</TEI>
